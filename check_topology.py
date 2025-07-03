@@ -35,3 +35,4 @@ else:
     # 可选：输出每个分量的节点
     for i, comp in enumerate(components):
         print(f'分量{i+1}节点：', comp) 
+
