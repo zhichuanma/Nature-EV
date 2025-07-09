@@ -8,7 +8,7 @@ def assign_tech_units(df_Units_modified, df_Buses, tech):
     参数:
         df_Units_modified: 已有的 units 表（包含 type、x、y、Bus name 等字段）
         df_Buses: 所有 bus 表，包含 ['x', 'y', 'Bus name']
-        project_file: bioenergy 项目数据文件路径（默认值为 2024 年 9 月的文件）
+        project_file: tech 项目数据文件路径（默认值为 2024 年 9 月的文件）
 
     返回:
         df_new_units: 新创建的 tech 单元 DataFrame
@@ -24,8 +24,11 @@ def assign_tech_units(df_Units_modified, df_Buses, tech):
         df_tech = pd.read_excel(project_file, sheet_name='Data')
     df_tech = df_tech[df_tech['Country/Area'] == 'United Kingdom']
 
-    # 2. 提取 biomass 类型的单位
-    df_Units_tech = df_Units_modified[df_Units_modified['Technology'] == tech].copy()
+    # 2. 提取 tech 类型的单位
+    if tech == 'wind':
+        df_Units_tech = df_Units_modified[df_Units_modified['Technology'].str.contains('wind', case=False, na=False)].copy()
+    else:
+        df_Units_tech = df_Units_modified[df_Units_modified['Technology'] == tech].copy()
 
     # 3. 匹配最近项目
     tree = cKDTree(df_tech[["Longitude", "Latitude"]].to_numpy())
@@ -53,14 +56,24 @@ def assign_tech_units(df_Units_modified, df_Buses, tech):
     for index, row in df_tech.iterrows():
         if index in assigned_idxs:
             continue
+
+        if tech == 'wind':
+            install_type = str(row.get('Installation Type', '')).lower()  # 防止缺值
+            if 'offshore' in install_type:
+                subtype = 'offwind'
+            else:
+                subtype = 'onwind'
+        else:
+            subtype = tech  # 其他技术原样使用
+
         new_unit = {
-            'UnitID': f'new_{tech}_{index}',
-            'name': f'{tech}_{index}',
-            'type': tech,
+            'UnitID': f'new_{subtype}_{index}',
+            'name': f'{subtype}_{index}',
+            'type': subtype,
             'x': row['Longitude'],
             'y': row['Latitude'],
             'capacity': row['Capacity (MW)'],
-            'Technology': tech,
+            'Technology': subtype,
             'Cost': None,
         }
         new_units.append(new_unit)
