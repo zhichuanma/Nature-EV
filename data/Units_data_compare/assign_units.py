@@ -16,7 +16,12 @@ def assign_tech_units(df_Units_modified, df_Buses, tech):
     """
     # 1. 读取 tech 项目并过滤英国
     project_file=f'Global-{tech}.xlsx'
-    df_tech = pd.read_excel(project_file, sheet_name='Data')
+    if tech == 'solar':
+        df_solar_1 = pd.read_excel(project_file, sheet_name='20 MW+')
+        df_solar_2 = pd.read_excel(project_file, sheet_name='1-20 MW')
+        df_tech = pd.concat([df_solar_1, df_solar_2], ignore_index=True)
+    else:
+        df_tech = pd.read_excel(project_file, sheet_name='Data')
     df_tech = df_tech[df_tech['Country/Area'] == 'United Kingdom']
 
     # 2. 提取 biomass 类型的单位
