@@ -91,9 +91,9 @@ def assign_tech_units(df_Units_modified, df_Buses, tech):
         df_new_units['Bus name'] = bus_names[idx]
 
         # 合并新单元到总表
-        df_Units_modified = pd.concat([df_Units_modified, df_new_units], ignore_index=True)
+        df_Units_tech = pd.concat([df_Units_tech, df_new_units], ignore_index=False)
 
     else:
         df_new_units = pd.DataFrame(columns=df_Units_modified.columns)
 
-    return df_new_units, df_Units_modified
+    return df_new_units, df_Units_tech
