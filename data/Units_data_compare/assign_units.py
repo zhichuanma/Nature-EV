@@ -20,9 +20,10 @@ def assign_tech_units(df_Units_modified, df_Buses, tech):
         df_solar_1 = pd.read_excel(project_file, sheet_name='20 MW+')
         df_solar_2 = pd.read_excel(project_file, sheet_name='1-20 MW')
         df_tech = pd.concat([df_solar_1, df_solar_2], ignore_index=True)
-    
     elif tech == 'coal':
         df_tech = pd.read_excel(project_file, sheet_name='Units')
+    elif tech == 'oil-gas':
+        df_tech = pd.read_excel(project_file, sheet_name='Gas & Oil Units')
     else:
         df_tech = pd.read_excel(project_file, sheet_name='Data')
     df_tech = df_tech[df_tech['Country/Area'] == 'United Kingdom']
@@ -30,6 +31,8 @@ def assign_tech_units(df_Units_modified, df_Buses, tech):
     # 2. 提取 tech 类型的单位
     if tech == 'wind':
         df_Units_tech = df_Units_modified[df_Units_modified['Technology'].str.contains('wind', case=False, na=False)].copy()
+    elif tech == 'oil-gas':
+        df_Units_tech = df_Units_modified[df_Units_modified['Technology'].str.contains('oil|gas', case=False, na=False)].copy()
     else:
         df_Units_tech = df_Units_modified[df_Units_modified['Technology'] == tech].copy()
 
@@ -41,6 +44,9 @@ def assign_tech_units(df_Units_modified, df_Buses, tech):
     df_Units_tech[f"nearest_{tech}_lon"] = df_tech.iloc[idx]["Longitude"].values
     df_Units_tech[f"nearest_{tech}_lat"] = df_tech.iloc[idx]["Latitude"].values
     df_Units_tech[f"nearest_{tech}_capacity"] = df_tech.iloc[idx]["Capacity (MW)"].values
+    df_Units_tech[f"Start Year"] = df_tech.iloc[idx]["Start Year"].values
+    df_Units_tech[f"Retired Year"] = df_tech.iloc[idx]["Retired Year"].values
+    df_Units_tech[f"Status"] = df_tech.iloc[idx]["Status"].values
 
     # 4. 平均分配容量
     unit_counts = df_Units_tech.groupby(f"nearest_{tech}_idx")["UnitID"].transform('count')
@@ -49,7 +55,7 @@ def assign_tech_units(df_Units_modified, df_Buses, tech):
     # 5. 精简列
     df_Units_tech = df_Units_tech.loc[:, [
         'UnitID', 'name', 'type', 'Bus name', 'x', 'y',
-        'capacity', 'Technology', 'Cost', f'nearest_{tech}_idx'
+        'capacity', 'Technology', 'Cost', f'nearest_{tech}_idx', 'Start Year', 'Retired Year', 'Status'
     ]]
 
     # 6. 创建新单元：那些尚未被任何单位匹配的项目
@@ -69,6 +75,13 @@ def assign_tech_units(df_Units_modified, df_Buses, tech):
         else:
             subtype = tech  # 其他技术原样使用
 
+        if tech == 'oil-gas':
+            fuel = str(row.get('Fuel','')).lower()
+            if 'oil' in fuel:
+                subtype = 'oil'
+            else:
+                subtype = 'gas'
+
         new_unit = {
             'UnitID': f'new_{subtype}_{index}',
             'name': f'{subtype}_{index}',
@@ -78,6 +91,9 @@ def assign_tech_units(df_Units_modified, df_Buses, tech):
             'capacity': row['Capacity (MW)'],
             'Technology': subtype,
             'Cost': None,
+            'Status': row['Status'],
+            'Start Year': row['Start Year'],
+            'Retired Year': row['Retired Year']
         }
         new_units.append(new_unit)
 
@@ -95,8 +111,9 @@ def assign_tech_units(df_Units_modified, df_Buses, tech):
 
         # 合并新单元到总表
         df_Units_tech = pd.concat([df_Units_tech, df_new_units], ignore_index=False)
+        df_Units_tech.drop(columns=f'nearest_{tech}_idx', inplace=True)
 
     else:
         df_new_units = pd.DataFrame(columns=df_Units_modified.columns)
-
+        df_new_units.drop(columns=f'nearest_{tech}_idx', inplace=True)
     return df_new_units, df_Units_tech
