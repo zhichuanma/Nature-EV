@@ -36,17 +36,34 @@ def assign_tech_units(df_Units_modified, df_Buses, tech):
     else:
         df_Units_tech = df_Units_modified[df_Units_modified['Technology'] == tech].copy()
 
-    # 3. 匹配最近项目
+    # 3. 匹配最近项目（合并同一经纬度下多个项目容量）
     tree = cKDTree(df_tech[["Longitude", "Latitude"]].to_numpy())
     dist, idx = tree.query(df_Units_tech[['x', 'y']].to_numpy(), k=1)
 
+    # 将最近项目的索引记录下来
     df_Units_tech[f"nearest_{tech}_idx"] = idx
-    df_Units_tech[f"nearest_{tech}_lon"] = df_tech.iloc[idx]["Longitude"].values
-    df_Units_tech[f"nearest_{tech}_lat"] = df_tech.iloc[idx]["Latitude"].values
-    df_Units_tech[f"nearest_{tech}_capacity"] = df_tech.iloc[idx]["Capacity (MW)"].values
-    df_Units_tech[f"Start Year"] = df_tech.iloc[idx]["Start Year"].values
-    df_Units_tech[f"Retired Year"] = df_tech.iloc[idx]["Retired Year"].values
-    df_Units_tech[f"Status"] = df_tech.iloc[idx]["Status"].values
+
+    # 取最近匹配项目的坐标
+    nearest_coords = df_tech.iloc[idx][["Longitude", "Latitude"]].reset_index(drop=True)
+    df_Units_tech[[f"nearest_{tech}_lon", f"nearest_{tech}_lat"]] = nearest_coords
+
+    # 遍历每个 unit 的最近点坐标，查找所有相同经纬度的项目并合并容量
+    merged_capacity = []
+    assigned_idxs = set()
+
+    for lon, lat in nearest_coords.itertuples(index=False):
+        mask = (df_tech["Longitude"] == lon) & (df_tech["Latitude"] == lat)
+        matched = df_tech[mask]
+        merged_capacity.append(matched["Capacity (MW)"].sum())
+        assigned_idxs.update(matched.index)
+
+    df_Units_tech[f"nearest_{tech}_capacity"] = merged_capacity
+
+    # 选用第一个匹配项目的属性填充其他字段（可扩展为更复杂策略）
+    df_Units_tech["Start Year"] = df_tech.iloc[idx]["Start Year"].values
+    df_Units_tech["Retired Year"] = df_tech.iloc[idx]["Retired Year"].values
+    df_Units_tech["Status"] = df_tech.iloc[idx]["Status"].values
+
 
     # 4. 平均分配容量
     unit_counts = df_Units_tech.groupby(f"nearest_{tech}_idx")["UnitID"].transform('count')
@@ -59,7 +76,7 @@ def assign_tech_units(df_Units_modified, df_Buses, tech):
     ]]
 
     # 6. 创建新单元：那些尚未被任何单位匹配的项目
-    assigned_idxs = set(df_Units_tech[f'nearest_{tech}_idx'])
+    # assigned_idxs = set(df_Units_tech[f'nearest_{tech}_idx'])
     new_units = []
 
     for index, row in df_tech.iterrows():
