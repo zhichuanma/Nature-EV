@@ -89,15 +89,14 @@ def assign_tech_units(df_Units_modified, df_Buses, tech):
                 subtype = 'offwind'
             else:
                 subtype = 'onwind'
-        else:
-            subtype = tech  # 其他技术原样使用
-
-        if tech == 'oil-gas':
+        elif tech == 'oil-gas':
             fuel = str(row.get('Fuel','')).lower()
             if 'oil' in fuel:
                 subtype = 'oil'
             else:
                 subtype = 'gas'
+        else:
+            subtype = tech  # 其他技术原样使用
 
         new_unit = {
             'UnitID': f'new_{subtype}_{index}',
