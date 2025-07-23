@@ -48,4 +48,4 @@ for station in data:
 # Convert to DataFrame and save
 df = pd.DataFrame(rows)
 print("UK charging connector count:", len(df))
-df.to_csv("UK_charging_stations_with_capacity.csv", index=False)
+df.to_csv("./UK_charging_stations_with_capacity.csv", index=False)
