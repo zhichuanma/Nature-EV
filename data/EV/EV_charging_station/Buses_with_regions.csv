@@ -1,0 +1,544 @@
+BusID,bus_name,voltage,x,y,RegionName,color,geometry,index_right,NUTS_ID,LEVL_CODE,CNTR_CODE,NAME_LATN,NUTS_NAME,MOUNT_TYPE,URBN_TYPE,COAST_TYPE
+1,GB1-220,220.0,-2.8957458,58.2568149,,red,POINT (-2.8957458 58.2568149),,,,,,,,,
+2,GB10-275,275.0,-3.719714103,56.08813281,Devonside,green,POINT (-3.719714103 56.08813281),1386.0,UKM72,3.0,UK,Clackmannanshire and Fife,Clackmannanshire and Fife,4.0,1.0,1.0
+3,GB11-275,275.0,-3.1796917,55.9246204,Whitehouse,red,POINT (-3.1796917 55.9246204),1466.0,UKM75,3.0,UK,"Edinburgh, City of","Edinburgh, City of",4.0,1.0,1.0
+4,GB12-275,275.0,-3.1786274,55.9031338,Kaimes,red,POINT (-3.1786274 55.9031338),1466.0,UKM75,3.0,UK,"Edinburgh, City of","Edinburgh, City of",4.0,1.0,1.0
+5,GB13-400,400.0,-2.93891761,55.88469412,Cockenzie,green,POINT (-2.93891761 55.88469412),1465.0,UKM73,3.0,UK,East Lothian and Midlothian,East Lothian and Midlothian,4.0,1.0,1.0
+6,GB14-400,400.0,-4.5707774,55.8344676,Johnstone,red,POINT (-4.5707774 55.8344676),1456.0,UKM83,3.0,UK,"Inverclyde, East Renfrewshire and Renfrewshire","Inverclyde, East Renfrewshire and Renfrewshire",4.0,1.0,1.0
+7,GB15-275,275.0,-4.1161377,55.79148895,Clydeâ€™s Mill,red,POINT (-4.1161377 55.79148895),1441.0,UKM95,3.0,UK,South Lanarkshire,South Lanarkshire,4.0,1.0,2.0
+8,GB16-400,400.0,-1.803404057,55.0152563,Stella South,green,POINT (-1.803404057 55.0152563),1105.0,UKC21,3.0,UK,Northumberland,Northumberland,4.0,2.0,1.0
+9,GB17-275,275.0,-1.409093389,54.75666396,Hart Moor,red,POINT (-1.409093389 54.75666396),1104.0,UKC14,3.0,UK,Durham CC,Durham CC,4.0,1.0,1.0
+10,GB18-400,400.0,-2.91670123,54.02987179,Heysham,red,POINT (-2.91670123 54.02987179),1244.0,UKD44,3.0,UK,Lancaster and Wyre,Lancaster and Wyre,4.0,1.0,1.0
+11,GB19-220,220.0,-3.6660007,54.015637,,red,POINT (-3.6660007 54.015637),,,,,,,,,
+12,GB2-220,220.0,-2.8805172,58.2499453,,red,POINT (-2.8805172 58.2499453),,,,,,,,,
+13,GB20-400,400.0,-2.755971765,54.01281882,Heysham,green,POINT (-2.755971765 54.01281882),1244.0,UKD44,3.0,UK,Lancaster and Wyre,Lancaster and Wyre,4.0,1.0,1.0
+14,GB21-220,220.0,1.6306869,53.9394081,,red,POINT (1.6306869 53.9394081),,,,,,,,,
+15,GB22-400,400.0,-2.933961224,53.87556701,Stanah,green,POINT (-2.933961224 53.87556701),1244.0,UKD44,3.0,UK,Lancaster and Wyre,Lancaster and Wyre,4.0,1.0,1.0
+16,GB23-275,275.0,-1.2972567,53.8695026,Ferrybridge (_F),red,POINT (-1.2972567 53.8695026),1277.0,UKE22,3.0,UK,North Yorkshire CC,North Yorkshire CC,4.0,2.0,1.0
+17,GB24-220,220.0,1.6376833,53.766543,,red,POINT (1.6376833 53.766543),,,,,,,,,
+18,GB25-400,400.0,-1.8053122,53.7437311,Bradford West,red,POINT (-1.8053122 53.7437311),1363.0,UKE44,3.0,UK,Calderdale and Kirklees,Calderdale and Kirklees,4.0,1.0,3.0
+19,GB26-275,275.0,-1.831285551,53.72329819,Elland,red,POINT (-1.831285551 53.72329819),1363.0,UKE44,3.0,UK,Calderdale and Kirklees,Calderdale and Kirklees,4.0,1.0,3.0
+20,GB27-400,400.0,-2.4534812,53.7101582,Padiham,red,POINT (-2.4534812 53.7101582),1207.0,UKD41,3.0,UK,Blackburn with Darwen,Blackburn with Darwen,4.0,1.0,2.0
+21,GB28-275,275.0,-1.804010541,53.67674115,Skelton Grange,green,POINT (-1.804010541 53.67674115),1363.0,UKE44,3.0,UK,Calderdale and Kirklees,Calderdale and Kirklees,4.0,1.0,3.0
+22,GB29-275,275.0,-2.0685211,53.6559798,Rochdale,red,POINT (-2.0685211 53.6559798),1206.0,UKD37,3.0,UK,Greater Manchester North East,Greater Manchester North East,4.0,1.0,2.0
+23,GB3-220,220.0,-2.9011666,58.2463135,,red,POINT (-2.9011666 58.2463135),,,,,,,,,
+24,GB30-400,400.0,-0.7254893,53.6436974,Keadby,green,POINT (-0.7254893 53.6436974),1353.0,UKE13,3.0,UK,North and North East Lincolnshire,North and North East Lincolnshire,4.0,2.0,1.0
+25,GB31-400,400.0,-1.0692832,53.6366337,Ferrybridge (_F),red,POINT (-1.0692832 53.6366337),1397.0,UKE31,3.0,UK,"Barnsley, Doncaster and Rotherham","Barnsley, Doncaster and Rotherham",4.0,1.0,2.0
+26,GB32-400,400.0,-0.2943457,53.6272955,Grimsby West,green,POINT (-0.2943457 53.6272955),1353.0,UKE13,3.0,UK,North and North East Lincolnshire,North and North East Lincolnshire,4.0,2.0,1.0
+27,GB33-400,400.0,-1.284845914,53.61097403,Ferrybridge (_M),red,POINT (-1.284845914 53.61097403),1154.0,UKE45,3.0,UK,Wakefield,Wakefield,4.0,1.0,2.0
+28,GB34-400,400.0,-1.2528935,53.6096987,Ferrybridge (_M),red,POINT (-1.2528935 53.6096987),1154.0,UKE45,3.0,UK,Wakefield,Wakefield,4.0,1.0,2.0
+29,GB35-400,400.0,-0.232903,53.5904792,Grimsby West,red,POINT (-0.232903 53.5904792),1353.0,UKE13,3.0,UK,North and North East Lincolnshire,North and North East Lincolnshire,4.0,2.0,1.0
+30,GB36-400,400.0,-1.6134812,53.4963483,West Melton,red,POINT (-1.6134812 53.4963483),1397.0,UKE31,3.0,UK,"Barnsley, Doncaster and Rotherham","Barnsley, Doncaster and Rotherham",4.0,1.0,2.0
+31,GB37-275,275.0,-1.2467417,53.444646,Thurcroft,red,POINT (-1.2467417 53.444646),1397.0,UKE31,3.0,UK,"Barnsley, Doncaster and Rotherham","Barnsley, Doncaster and Rotherham",4.0,1.0,2.0
+32,GB38-220,220.0,0.8000813,53.4340319,,red,POINT (0.8000813 53.4340319),,,,,,,,,
+33,GB39-400,400.0,-0.817995162,53.41570495,Staythorpe,red,POINT (-0.817995162 53.41570495),1112.0,UKF15,3.0,UK,North Nottinghamshire,North Nottinghamshire,4.0,1.0,2.0
+34,GB4-220,220.0,-2.7128938,58.096774,,red,POINT (-2.7128938 58.096774),,,,,,,,,
+35,GB40-275,275.0,-2.1051057,53.4041771,Bredbury,green,POINT (-2.1051057 53.4041771),1149.0,UKD35,3.0,UK,Greater Manchester South East,Greater Manchester South East,4.0,1.0,2.0
+36,GB41-275,275.0,-1.4685122,53.3912009,Pitsmoor,red,POINT (-1.4685122 53.3912009),1398.0,UKE32,3.0,UK,Sheffield,Sheffield,4.0,1.0,2.0
+37,GB42-275,275.0,-1.4472631,53.3369511,Norton Lees,red,POINT (-1.4472631 53.3369511),1398.0,UKE32,3.0,UK,Sheffield,Sheffield,4.0,1.0,2.0
+38,GB43-400,400.0,-2.7440555,53.319391,Frodsham,red,POINT (-2.7440555 53.319391),1459.0,UKD71,3.0,UK,East Merseyside,East Merseyside,4.0,1.0,1.0
+39,GB44-275,275.0,-2.819172467,53.27963175,Frodsham,red,POINT (-2.819172467 53.27963175),1458.0,UKD63,3.0,UK,Cheshire West and Chester,Cheshire West and Chester,4.0,1.0,1.0
+40,GB46-220,220.0,0.7855224,53.2222743,,red,POINT (0.7855224 53.2222743),,,,,,,,,
+41,GB47-400,400.0,-4.1704357,53.1498169,Pentir,green,POINT (-4.1704357 53.1498169),1371.0,UKL12,3.0,UK,Gwynedd,Gwynedd,2.0,3.0,1.0
+42,GB48-400,400.0,-4.1561515,53.1406872,Pentir,red,POINT (-4.1561515 53.1406872),1371.0,UKL12,3.0,UK,Gwynedd,Gwynedd,2.0,3.0,1.0
+43,GB49-400,400.0,-4.0977029,53.1225945,Pentir,green,POINT (-4.0977029 53.1225945),1371.0,UKL12,3.0,UK,Gwynedd,Gwynedd,2.0,3.0,1.0
+44,GB5-220,220.0,-2.9917152,58.0575386,,red,POINT (-2.9917152 58.0575386),,,,,,,,,
+45,GB50-400,400.0,-3.1479469,53.1167498,Legacy,green,POINT (-3.1479469 53.1167498),1175.0,UKL23,3.0,UK,Flintshire and Wrexham,Flintshire and Wrexham,4.0,1.0,1.0
+46,GB51-400,400.0,-1.4045595,52.8381758,Willington,red,POINT (-1.4045595 52.8381758),1161.0,UKF13,3.0,UK,South and West Derbyshire,South and West Derbyshire,4.0,1.0,3.0
+47,GB52-400,400.0,-0.0719683,52.8381432,,green,POINT (-0.0719683 52.8381432),1198.0,UKF30,3.0,UK,Lincolnshire,Lincolnshire,4.0,2.0,1.0
+48,GB53-400,400.0,-1.514203018,52.82650701,Drakelow,red,POINT (-1.514203018 52.82650701),1161.0,UKF13,3.0,UK,South and West Derbyshire,South and West Derbyshire,4.0,1.0,3.0
+49,GB54-400,400.0,-1.8397943,52.7277722,Rugeley,green,POINT (-1.8397943 52.7277722),1491.0,UKG24,3.0,UK,Staffordshire CC,Staffordshire CC,4.0,1.0,3.0
+50,GB55-275,275.0,-2.1094118,52.6667274,Bushbury,red,POINT (-2.1094118 52.6667274),1491.0,UKG24,3.0,UK,Staffordshire CC,Staffordshire CC,4.0,1.0,3.0
+51,GB56-400,400.0,-1.7507603,52.61627489,Hams Hall,red,POINT (-1.7507603 52.61627489),1491.0,UKG24,3.0,UK,Staffordshire CC,Staffordshire CC,4.0,1.0,3.0
+52,GB57-400,400.0,-2.2407988,52.61180729,Bushbury,red,POINT (-2.2407988 52.61180729),1491.0,UKG24,3.0,UK,Staffordshire CC,Staffordshire CC,4.0,1.0,3.0
+53,GB58-275,275.0,-1.7162298,52.39505819,Hams Hall,green,POINT (-1.7162298 52.39505819),1472.0,UKG32,3.0,UK,Solihull,Solihull,4.0,1.0,3.0
+54,GB59-275,275.0,-2.1834417,52.39136439,Bishops Wood,green,POINT (-2.1834417 52.39136439),1304.0,UKG12,3.0,UK,Worcestershire,Worcestershire,4.0,2.0,3.0
+55,GB6-220,220.0,-2.7300015,57.6863438,Macduff,red,POINT (-2.7300015 57.6863438),1195.0,UKM50,3.0,UK,Aberdeen City and Aberdeenshire,Aberdeen City and Aberdeenshire,4.0,2.0,1.0
+56,GB60-275,275.0,-2.1426196,52.36271319,Bishops Wood,red,POINT (-2.1426196 52.36271319),1304.0,UKG12,3.0,UK,Worcestershire,Worcestershire,4.0,2.0,3.0
+57,GB61-275,275.0,-2.1249941,52.33712359,Bishops Wood,red,POINT (-2.1249941 52.33712359),1304.0,UKG12,3.0,UK,Worcestershire,Worcestershire,4.0,2.0,3.0
+58,GB62-220,220.0,2.5060803,52.24850499,,red,POINT (2.5060803 52.24850499),,,,,,,,,
+59,GB63-400,400.0,0.7255421,52.00039309,Braintree,red,POINT (0.7255421 52.00039309),1399.0,UKH34,3.0,UK,Essex Haven Gateway,Essex Haven Gateway,4.0,2.0,1.0
+60,GB64-220,220.0,1.4246125,51.99963089,Bramford,red,POINT (1.4246125 51.99963089),,,,,,,,,
+61,GB65-400,400.0,-2.5976167,51.57876009,Iron Acton,red,POINT (-2.5976167 51.57876009),1340.0,UKK12,3.0,UK,"Bath and North East Somerset, North Somerset and South Gloucestershire","Bath and North East Somerset, North Somerset and South Gloucestershire",4.0,1.0,1.0
+62,GB66-275,275.0,-3.143064416,51.54750643,Cardiff East,green,POINT (-3.143064416 51.54750643),1102.0,UKL22,3.0,UK,Cardiff and Vale of Glamorgan,Cardiff and Vale of Glamorgan,4.0,1.0,1.0
+63,GB68-275,275.0,-3.07819122,51.52427984,Cardiff East,red,POINT (-3.07819122 51.52427984),1102.0,UKL22,3.0,UK,Cardiff and Vale of Glamorgan,Cardiff and Vale of Glamorgan,4.0,1.0,1.0
+64,GB69-400,400.0,0.4716213,51.52161159,Tilbury,green,POINT (0.4716213 51.52161159),1174.0,UKH32,3.0,UK,Thurrock,Thurrock,4.0,1.0,1.0
+65,GB7-275,275.0,-2.138815132,57.1742089,Persley,green,POINT (-2.138815132 57.1742089),1195.0,UKM50,3.0,UK,Aberdeen City and Aberdeenshire,Aberdeen City and Aberdeenshire,4.0,2.0,1.0
+66,GB71-275,275.0,-3.3339055,51.49921789,Upper Boat,green,POINT (-3.3339055 51.49921789),1102.0,UKL22,3.0,UK,Cardiff and Vale of Glamorgan,Cardiff and Vale of Glamorgan,4.0,1.0,1.0
+67,GB72-400,400.0,-0.192474902,51.48511555,St Johns Wood,red,POINT (-0.192474902 51.48511555),1415.0,UKI33,3.0,UK,Kensington & Chelsea and Hammersmith & Fulham,Kensington & Chelsea and Hammersmith & Fulham,4.0,1.0,1.0
+68,GB73-400,400.0,0.312917224,51.4592273,Northfleet East,red,POINT (0.312917224 51.4592273),1506.0,UKJ43,3.0,UK,Kent Thames Gateway,Kent Thames Gateway,4.0,1.0,1.0
+69,GB74-275,275.0,0.165175041,51.44333737,Hurst,red,POINT (0.165175041 51.44333737),1484.0,UKI51,3.0,UK,Bexley and Greenwich,Bexley and Greenwich,4.0,1.0,1.0
+70,GB74-400,400.0,0.165436907,51.44355166,Hurst,red,POINT (0.165436907 51.44355166),1484.0,UKI51,3.0,UK,Bexley and Greenwich,Bexley and Greenwich,4.0,1.0,1.0
+71,GB75-400,400.0,0.6902156,51.44033449,Kemsley,red,POINT (0.6902156 51.44033449),1498.0,UKJ41,3.0,UK,Medway,Medway,4.0,1.0,1.0
+72,GB76-275,275.0,-0.0881416,51.36570379,Beddington (_J),red,POINT (-0.0881416 51.36570379),1494.0,UKI62,3.0,UK,Croydon,Croydon,4.0,1.0,2.0
+73,GB78-400,400.0,0.0516055,51.34658629,Beddington (_J),green,POINT (0.0516055 51.34658629),1493.0,UKI61,3.0,UK,Bromley,Bromley,4.0,1.0,2.0
+74,GB79-400,400.0,0.036362,51.34532109,Beddington (_J),green,POINT (0.036362 51.34532109),1493.0,UKI61,3.0,UK,Bromley,Bromley,4.0,1.0,2.0
+75,GB8-220,220.0,-1.7589614,56.5849318,,red,POINT (-1.7589614 56.5849318),,,,,,,,,
+76,GB81-400,400.0,-2.950594572,51.18265582,Bridgewater,red,POINT (-2.950594572 51.18265582),1470.0,UKK23,3.0,UK,Somerset,Somerset,4.0,2.0,1.0
+77,GB82-275,275.0,0.96410185,50.9143972,Sellindge,red,POINT (0.96410185 50.9143972),1487.0,UKJ44,3.0,UK,East Kent,East Kent,4.0,1.0,1.0
+78,GB83-400,400.0,-1.4746633,50.90390799,Nursling,green,POINT (-1.4746633 50.90390799),1496.0,UKJ36,3.0,UK,Central Hampshire,Central Hampshire,4.0,1.0,1.0
+79,GB9-275,275.0,-3.3055849,56.1404298,Westfield,red,POINT (-3.3055849 56.1404298),1386.0,UKM72,3.0,UK,Clackmannanshire and Fife,Clackmannanshire and Fife,4.0,1.0,1.0
+80,relation/10377509-400,400.0,-3.050444102,55.03199063,Chapelcross,green,POINT (-3.050444102 55.03199063),952.0,UKM92,3.0,UK,Dumfries & Galloway,Dumfries & Galloway,4.0,3.0,1.0
+81,relation/10695345-400,400.0,1.345638898,51.30987814,Richborough,red,POINT (1.345638898 51.30987814),1487.0,UKJ44,3.0,UK,East Kent,East Kent,4.0,1.0,1.0
+82,relation/10925187-275,275.0,-1.49655456,53.77709845,Skelton Grange,green,POINT (-1.49655456 53.77709845),1362.0,UKE42,3.0,UK,Leeds,Leeds,4.0,1.0,2.0
+83,relation/11051275-400,400.0,-2.670464759,54.29765311,Hutton,green,POINT (-2.670464759 54.29765311),1186.0,UKD12,3.0,UK,East Cumbria,East Cumbria,4.0,2.0,1.0
+84,relation/11543333-400,400.0,-1.555028214,54.70567199,Spennymoor,green,POINT (-1.555028214 54.70567199),1104.0,UKC14,3.0,UK,Durham CC,Durham CC,4.0,1.0,1.0
+85,relation/12543034-275,275.0,-3.299087619,51.57455529,Upper Boat,green,POINT (-3.299087619 51.57455529),1489.0,UKL15,3.0,UK,Central Valleys,Central Valleys,3.0,1.0,2.0
+86,relation/13110367-400,400.0,-4.989693057,51.68215993,Pembroke,green,POINT (-4.989693057 51.68215993),1132.0,UKL14,3.0,UK,South West Wales,South West Wales,4.0,3.0,1.0
+87,relation/13110368-275,275.0,-1.255426653,52.86342639,Willington,red,POINT (-1.255426653 52.86342639),1119.0,UKF16,3.0,UK,South Nottinghamshire,South Nottinghamshire,4.0,1.0,3.0
+88,relation/13110368-400,400.0,-1.255163941,52.86364381,Willington,green,POINT (-1.255163941 52.86364381),1119.0,UKF16,3.0,UK,South Nottinghamshire,South Nottinghamshire,4.0,1.0,3.0
+89,relation/13110369-400,400.0,-0.80883446,53.35935915,Staythorpe,red,POINT (-0.80883446 53.35935915),1112.0,UKF15,3.0,UK,North Nottinghamshire,North Nottinghamshire,4.0,1.0,2.0
+90,relation/13186702-275,275.0,-2.97612483,51.54838496,Uskmouth,red,POINT (-2.97612483 51.54838496),1134.0,UKL21,3.0,UK,Monmouthshire and Newport,Monmouthshire and Newport,4.0,1.0,1.0
+91,relation/14921826-275,275.0,-2.96240536,54.94214226,Harker,green,POINT (-2.96240536 54.94214226),1186.0,UKD12,3.0,UK,East Cumbria,East Cumbria,4.0,2.0,1.0
+92,relation/14921826-400,400.0,-2.962139659,54.94236341,Harker,red,POINT (-2.962139659 54.94236341),1186.0,UKD12,3.0,UK,East Cumbria,East Cumbria,4.0,2.0,1.0
+93,relation/2452471-275,275.0,-3.860721547,56.00757672,Bonnybridge,red,POINT (-3.860721547 56.00757672),1467.0,UKM76,3.0,UK,Falkirk,Falkirk,4.0,1.0,1.0
+94,relation/7650368-400,400.0,-0.500739962,51.93429316,Sundon,green,POINT (-0.500739962 51.93429316),1172.0,UKH25,3.0,UK,Central Bedfordshire,Central Bedfordshire,4.0,1.0,3.0
+95,relation/7872518-400,400.0,0.575898117,51.86573283,Braintree,green,POINT (0.575898117 51.86573283),1399.0,UKH34,3.0,UK,Essex Haven Gateway,Essex Haven Gateway,4.0,2.0,1.0
+96,relation/7879831-275,275.0,-3.958613809,51.68587296,Swansea North,red,POINT (-3.958613809 51.68587296),1133.0,UKL18,3.0,UK,Swansea,Swansea,4.0,1.0,1.0
+97,relation/7879831-400,400.0,-3.958370213,51.6860959,Swansea North,green,POINT (-3.958370213 51.6860959),1133.0,UKL18,3.0,UK,Swansea,Swansea,4.0,1.0,1.0
+98,relation/7880111-275,275.0,-0.48424131,51.3504784,West Weybridge,green,POINT (-0.48424131 51.3504784),1401.0,UKJ25,3.0,UK,West Surrey,West Surrey,4.0,1.0,2.0
+99,relation/7880111-400,400.0,-0.483982929,51.35069411,West Weybridge,green,POINT (-0.483982929 51.35069411),1401.0,UKJ25,3.0,UK,West Surrey,West Surrey,4.0,1.0,2.0
+100,relation/7881280-400,400.0,-0.756037109,53.59806107,Keadby,green,POINT (-0.756037109 53.59806107),1353.0,UKE13,3.0,UK,North and North East Lincolnshire,North and North East Lincolnshire,4.0,2.0,1.0
+101,relation/7886014-400,400.0,-2.512553304,52.63226162,Ironbridge,green,POINT (-2.512553304 52.63226162),1477.0,UKG22,3.0,UK,Shropshire CC,Shropshire CC,4.0,2.0,3.0
+102,relation/7894457-275,275.0,-2.405438557,53.43519161,Carrington,red,POINT (-2.405438557 53.43519161),1148.0,UKD34,3.0,UK,Greater Manchester South West,Greater Manchester South West,4.0,1.0,2.0
+103,relation/7894457-400,400.0,-2.405178454,53.43541149,Carrington,red,POINT (-2.405178454 53.43541149),1148.0,UKD34,3.0,UK,Greater Manchester South West,Greater Manchester South West,4.0,1.0,2.0
+104,relation/7894483-400,400.0,-2.321915579,53.79518999,Padiham,green,POINT (-2.321915579 53.79518999),1394.0,UKD46,3.0,UK,East Lancashire,East Lancashire,4.0,1.0,2.0
+105,relation/7894974-275,275.0,-4.080110628,55.75168992,Strathaven,green,POINT (-4.080110628 55.75168992),1441.0,UKM95,3.0,UK,South Lanarkshire,South Lanarkshire,4.0,1.0,2.0
+106,relation/7894974-400,400.0,-4.079846271,55.75191343,Strathaven,green,POINT (-4.079846271 55.75191343),1441.0,UKM95,3.0,UK,South Lanarkshire,South Lanarkshire,4.0,1.0,2.0
+107,relation/7894975-275,275.0,-2.756647537,53.74381896,Penwortham,red,POINT (-2.756647537 53.74381896),1383.0,UKD45,3.0,UK,Mid Lancashire,Mid Lancashire,4.0,1.0,1.0
+108,relation/7894975-400,400.0,-2.756387537,53.74403959,Penwortham,green,POINT (-2.756387537 53.74403959),1383.0,UKD45,3.0,UK,Mid Lancashire,Mid Lancashire,4.0,1.0,1.0
+109,relation/7896785-275,275.0,-1.85311523,52.50680233,Nechells,green,POINT (-1.85311523 52.50680233),1390.0,UKG31,3.0,UK,Birmingham,Birmingham,4.0,1.0,3.0
+110,relation/8087295-275,275.0,-3.753619779,58.57578626,Dounreay,green,POINT (-3.753619779 58.57578626),1273.0,UKM61,3.0,UK,Caithness & Sutherland and Ross & Cromarty,Caithness & Sutherland and Ross & Cromarty,2.0,3.0,1.0
+111,relation/9409219-400,400.0,-1.328737782,50.82162304,Fawley,green,POINT (-1.328737782 50.82162304),1496.0,UKJ36,3.0,UK,Central Hampshire,Central Hampshire,4.0,1.0,1.0
+112,relation/9572254-400,400.0,-4.899645176,50.39501306,Indian Queens,green,POINT (-4.899645176 50.39501306),1367.0,UKK30,3.0,UK,Cornwall and Isles of Scilly,Cornwall and Isles of Scilly,4.0,2.0,1.0
+113,relation/9598269-275,275.0,-2.043609843,53.49226711,Stalybridge,red,POINT (-2.043609843 53.49226711),1149.0,UKD35,3.0,UK,Greater Manchester South East,Greater Manchester South East,4.0,1.0,2.0
+114,relation/9598269-400,400.0,-2.0433476,53.49248623,Stalybridge,green,POINT (-2.0433476 53.49248623),1149.0,UKD35,3.0,UK,Greater Manchester South East,Greater Manchester South East,4.0,1.0,2.0
+115,way/100009331-400,400.0,-4.136944788,51.00583239,Alverdiscott,green,POINT (-4.136944788 51.00583239),1495.0,UKK43,3.0,UK,Devon CC,Devon CC,4.0,2.0,1.0
+116,way/100077745-275,275.0,-4.463425801,55.57616157,Kilmarnock South,red,POINT (-4.463425801 55.57616157),1326.0,UKM93,3.0,UK,East Ayrshire and North Ayrshire mainland,East Ayrshire and North Ayrshire mainland,4.0,2.0,1.0
+117,way/100077745-400,400.0,-4.4631646,55.57638583,Kilmarnock South,red,POINT (-4.4631646 55.57638583),1326.0,UKM93,3.0,UK,East Ayrshire and North Ayrshire mainland,East Ayrshire and North Ayrshire mainland,4.0,2.0,1.0
+118,way/100773252-400,400.0,0.506723522,51.51286098,Rayleigh,red,POINT (0.506723522 51.51286098),1174.0,UKH32,3.0,UK,Thurrock,Thurrock,4.0,1.0,1.0
+119,way/101077623-275,275.0,-1.48827082,53.40611605,Neepsend,green,POINT (-1.48827082 53.40611605),1398.0,UKE32,3.0,UK,Sheffield,Sheffield,4.0,1.0,2.0
+120,way/101077623-400,400.0,-1.488006264,53.406334,Neepsend,red,POINT (-1.488006264 53.406334),1398.0,UKE32,3.0,UK,Sheffield,Sheffield,4.0,1.0,2.0
+121,way/101312018-275,275.0,-1.4140985,53.41576404,Thorpe Marsh,red,POINT (-1.4140985 53.41576404),1398.0,UKE32,3.0,UK,Sheffield,Sheffield,4.0,1.0,2.0
+122,way/101365758-275,275.0,-3.406983749,51.48693743,Upper Boat,red,POINT (-3.406983749 51.48693743),1102.0,UKL22,3.0,UK,Cardiff and Vale of Glamorgan,Cardiff and Vale of Glamorgan,4.0,1.0,1.0
+123,way/102198808-400,400.0,-2.329689325,55.66928737,Eccles,green,POINT (-2.329689325 55.66928737),1325.0,UKM91,3.0,UK,Scottish Borders,Scottish Borders,4.0,3.0,1.0
+124,way/102549055-275,275.0,0.114347923,51.52096844,Barking,red,POINT (0.114347923 51.52096844),1485.0,UKI52,3.0,UK,Barking & Dagenham and Havering,Barking & Dagenham and Havering,4.0,1.0,1.0
+125,way/102549055-400,400.0,0.114609962,51.52118285,Barking,red,POINT (0.114609962 51.52118285),1485.0,UKI52,3.0,UK,Barking & Dagenham and Havering,Barking & Dagenham and Havering,4.0,1.0,1.0
+126,way/103150854-400,400.0,0.288344937,51.47116391,West Thurrock,red,POINT (0.288344937 51.47116391),1174.0,UKH32,3.0,UK,Thurrock,Thurrock,4.0,1.0,1.0
+127,way/103829261-400,400.0,0.407618211,51.44231108,Northfleet East,red,POINT (0.407618211 51.44231108),1506.0,UKJ43,3.0,UK,Kent Thames Gateway,Kent Thames Gateway,4.0,1.0,1.0
+128,way/103915328-275,275.0,-2.150795104,51.39346277,Melksham,red,POINT (-2.150795104 51.39346277),1464.0,UKK15,3.0,UK,Wiltshire CC,Wiltshire CC,4.0,2.0,2.0
+129,way/103915328-400,400.0,-2.150544287,51.39368201,Melksham,green,POINT (-2.150544287 51.39368201),1464.0,UKK15,3.0,UK,Wiltshire CC,Wiltshire CC,4.0,2.0,2.0
+130,way/1049638569-400,400.0,-2.899964074,51.28654274,Seabank,red,POINT (-2.899964074 51.28654274),1470.0,UKK23,3.0,UK,Somerset,Somerset,4.0,2.0,1.0
+131,way/105304263-275,275.0,-3.184996911,55.96536976,Shrubhill,red,POINT (-3.184996911 55.96536976),1466.0,UKM75,3.0,UK,"Edinburgh, City of","Edinburgh, City of",4.0,1.0,1.0
+132,way/1078532568-400,400.0,-0.236634539,52.92088492,,red,POINT (-0.236634539 52.92088492),1198.0,UKF30,3.0,UK,Lincolnshire,Lincolnshire,4.0,2.0,1.0
+133,way/1087785232-400,400.0,-2.839449257,51.34057311,Bridgewater,red,POINT (-2.839449257 51.34057311),1340.0,UKK12,3.0,UK,"Bath and North East Somerset, North Somerset and South Gloucestershire","Bath and North East Somerset, North Somerset and South Gloucestershire",4.0,1.0,1.0
+134,way/109073025-275,275.0,-4.255062262,55.87369771,Port Dundas,green,POINT (-4.255062262 55.87369771),1374.0,UKM82,3.0,UK,Glasgow City,Glasgow City,4.0,1.0,1.0
+135,way/109189896,450.0,0.716157544,51.4404983,Kemsley,red,POINT (0.716157544 51.4404983),1498.0,UKJ41,3.0,UK,Medway,Medway,4.0,1.0,1.0
+136,way/109463536-275,275.0,-1.131544931,53.97496121,Poppleton,green,POINT (-1.131544931 53.97496121),1245.0,UKE21,3.0,UK,York,York,4.0,2.0,2.0
+137,way/109730296-275,275.0,-1.131558865,54.56662671,Lackenby,red,POINT (-1.131558865 54.56662671),1381.0,UKC12,3.0,UK,South Teesside,South Teesside,4.0,1.0,1.0
+138,way/109730296-400,400.0,-1.13128574,54.56684399,Lackenby,green,POINT (-1.13128574 54.56684399),1381.0,UKC12,3.0,UK,South Teesside,South Teesside,4.0,1.0,1.0
+139,way/1097582201-400,400.0,-1.739725148,53.5201773,Elland,green,POINT (-1.739725148 53.5201773),1397.0,UKE31,3.0,UK,"Barnsley, Doncaster and Rotherham","Barnsley, Doncaster and Rotherham",4.0,1.0,2.0
+140,way/111528318-220,220.0,-2.977991295,56.52122917,Glenagnes,green,POINT (-2.977991295 56.52122917),1385.0,UKM71,3.0,UK,Angus and Dundee City,Angus and Dundee City,4.0,1.0,1.0
+141,way/111528318-275,275.0,-2.977642045,56.52109693,Glenagnes,red,POINT (-2.977642045 56.52109693),1385.0,UKM71,3.0,UK,Angus and Dundee City,Angus and Dundee City,4.0,1.0,1.0
+142,way/111550033-400,400.0,-2.4103305,55.96619115,Dunbar,red,POINT (-2.4103305 55.96619115),1465.0,UKM73,3.0,UK,East Lothian and Midlothian,East Lothian and Midlothian,4.0,1.0,1.0
+143,way/1120475588-275,275.0,-0.188300793,51.43045857,Wimbledon,red,POINT (-0.188300793 51.43045857),1500.0,UKI63,3.0,UK,"Merton, Kingston upon Thames and Sutton","Merton, Kingston upon Thames and Sutton",4.0,1.0,2.0
+144,way/1120475588-400,400.0,-0.188040628,51.43067363,Wimbledon,red,POINT (-0.188040628 51.43067363),1500.0,UKI63,3.0,UK,"Merton, Kingston upon Thames and Sutton","Merton, Kingston upon Thames and Sutton",4.0,1.0,2.0
+145,way/115277975-275,275.0,-2.938352915,57.54031721,Keith,red,POINT (-2.938352915 57.54031721),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+146,way/1153252242-275,275.0,-2.926281009,53.41871569,Lister Drive,green,POINT (-2.926281009 53.41871569),1460.0,UKD72,3.0,UK,Liverpool,Liverpool,4.0,1.0,1.0
+147,way/115530033-400,400.0,-1.228237977,51.66102501,Cowley,green,POINT (-1.228237977 51.66102501),1254.0,UKJ14,3.0,UK,Oxfordshire,Oxfordshire,4.0,2.0,3.0
+148,way/115887437-275,275.0,-1.394672799,53.40117103,Thorpe Marsh,green,POINT (-1.394672799 53.40117103),1398.0,UKE32,3.0,UK,Sheffield,Sheffield,4.0,1.0,2.0
+149,way/116539370-275,275.0,-1.443715962,53.40082263,Pitsmoor,green,POINT (-1.443715962 53.40082263),1398.0,UKE32,3.0,UK,Sheffield,Sheffield,4.0,1.0,2.0
+150,way/1185489725-220,220.0,-2.930267283,57.5000047,Keith,green,POINT (-2.930267283 57.5000047),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+151,way/1185489725-400,400.0,-2.929985216,57.5002261,Keith,red,POINT (-2.929985216 57.5002261),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+152,way/118821349-275,275.0,-2.384021499,57.21863711,Kintore,green,POINT (-2.384021499 57.21863711),1195.0,UKM50,3.0,UK,Aberdeen City and Aberdeenshire,Aberdeen City and Aberdeenshire,4.0,2.0,1.0
+153,way/118821349-400,400.0,-2.383738174,57.21885734,Kintore,red,POINT (-2.383738174 57.21885734),1195.0,UKM50,3.0,UK,Aberdeen City and Aberdeenshire,Aberdeen City and Aberdeenshire,4.0,2.0,1.0
+154,way/1190395478-220,220.0,-2.283860547,57.49027321,Strichen,green,POINT (-2.283860547 57.49027321),1195.0,UKM50,3.0,UK,Aberdeen City and Aberdeenshire,Aberdeen City and Aberdeenshire,4.0,2.0,1.0
+155,way/1190395478-400,400.0,-2.283574761,57.49049326,Strichen,red,POINT (-2.283574761 57.49049326),1195.0,UKM50,3.0,UK,Aberdeen City and Aberdeenshire,Aberdeen City and Aberdeenshire,4.0,2.0,1.0
+156,way/119315534-275,275.0,-4.07461935,55.87917759,Easterhouse,red,POINT (-4.07461935 55.87917759),1457.0,UKM84,3.0,UK,North Lanarkshire,North Lanarkshire,4.0,1.0,2.0
+157,way/119315549-275,275.0,-4.149163249,55.82271837,Clydeâ€™s Mill,red,POINT (-4.149163249 55.82271837),1441.0,UKM95,3.0,UK,South Lanarkshire,South Lanarkshire,4.0,1.0,2.0
+158,way/119315557-275,275.0,-4.203844206,55.83533733,Dalmarnock,green,POINT (-4.203844206 55.83533733),1441.0,UKM95,3.0,UK,South Lanarkshire,South Lanarkshire,4.0,1.0,2.0
+159,way/119616836-400,400.0,-3.154925324,51.01694852,Taunton,green,POINT (-3.154925324 51.01694852),1470.0,UKK23,3.0,UK,Somerset,Somerset,4.0,2.0,1.0
+160,way/1214332448-275,275.0,-3.968926579,52.98077866,Trawsfynydd,green,POINT (-3.968926579 52.98077866),1371.0,UKL12,3.0,UK,Gwynedd,Gwynedd,2.0,3.0,1.0
+161,way/121820285-275,275.0,-3.753905922,51.56292576,Swansea North,green,POINT (-3.753905922 51.56292576),1182.0,UKL17,3.0,UK,Bridgend and Neath Port Talbot,Bridgend and Neath Port Talbot,2.0,1.0,1.0
+162,way/123037622-275,275.0,-3.687712141,51.53597754,Pyle,green,POINT (-3.687712141 51.53597754),1182.0,UKL17,3.0,UK,Bridgend and Neath Port Talbot,Bridgend and Neath Port Talbot,2.0,1.0,1.0
+163,way/123129049-275,275.0,-3.210333037,55.94695003,Dewar Place,red,POINT (-3.210333037 55.94695003),1466.0,UKM75,3.0,UK,"Edinburgh, City of","Edinburgh, City of",4.0,1.0,1.0
+164,way/123866712-275,275.0,-1.458499555,53.32967511,Norton Lees,green,POINT (-1.458499555 53.32967511),1398.0,UKE32,3.0,UK,Sheffield,Sheffield,4.0,1.0,2.0
+165,way/1252341626-275,275.0,-3.161991811,56.60968212,Coupar Angus,red,POINT (-3.161991811 56.60968212),1510.0,UKM77,3.0,UK,Perth & Kinross and Stirling,Perth & Kinross and Stirling,2.0,2.0,1.0
+166,way/125860302-275,275.0,-4.587895868,55.45735248,Ayr,green,POINT (-4.587895868 55.45735248),1440.0,UKM94,3.0,UK,South Ayrshire,South Ayrshire,4.0,2.0,1.0
+167,way/1262971878,320.0,-3.452184944,58.4799679,Mybster,green,POINT (-3.452184944 58.4799679),1273.0,UKM61,3.0,UK,Caithness & Sutherland and Ross & Cromarty,Caithness & Sutherland and Ross & Cromarty,2.0,3.0,1.0
+168,way/1262971878-275,275.0,-3.451974079,58.47918791,Mybster,red,POINT (-3.451974079 58.47918791),1273.0,UKM61,3.0,UK,Caithness & Sutherland and Ross & Cromarty,Caithness & Sutherland and Ross & Cromarty,2.0,3.0,1.0
+169,way/1263095953-400,400.0,-4.718064557,57.13534566,Fort Augustus,green,POINT (-4.718064557 57.13534566),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+170,way/127045977-275,275.0,-4.474247602,57.2686026,Beauly,red,POINT (-4.474247602 57.2686026),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+171,way/127184694-400,400.0,-2.693146331,52.70928629,Shrewsbury,green,POINT (-2.693146331 52.70928629),1477.0,UKG22,3.0,UK,Shropshire CC,Shropshire CC,4.0,2.0,3.0
+172,way/1274396508-400,400.0,-3.074227981,53.22972663,Connahs Quay,red,POINT (-3.074227981 53.22972663),1175.0,UKL23,3.0,UK,Flintshire and Wrexham,Flintshire and Wrexham,4.0,1.0,1.0
+173,way/1275300370-275,275.0,0.237482345,51.46350436,Littlebrook (_J),green,POINT (0.237482345 51.46350436),1506.0,UKJ43,3.0,UK,Kent Thames Gateway,Kent Thames Gateway,4.0,1.0,1.0
+174,way/1275300370-400,400.0,0.237744651,51.46371849,Littlebrook (_J),red,POINT (0.237744651 51.46371849),1506.0,UKJ43,3.0,UK,Kent Thames Gateway,Kent Thames Gateway,4.0,1.0,1.0
+175,way/1297690788-275,275.0,-1.292040148,54.70055665,Hart Moor,green,POINT (-1.292040148 54.70055665),1380.0,UKC11,3.0,UK,Hartlepool and Stockton-on-Tees,Hartlepool and Stockton-on-Tees,4.0,1.0,1.0
+176,way/1307462736-275,275.0,-4.724597383,56.32414272,Sloy,green,POINT (-4.724597383 56.32414272),1473.0,UKM81,3.0,UK,"East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond","East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond",2.0,1.0,1.0
+177,way/133323988-275,275.0,-1.799298759,57.47334454,Peterhead Shell,green,POINT (-1.799298759 57.47334454),1195.0,UKM50,3.0,UK,Aberdeen City and Aberdeenshire,Aberdeen City and Aberdeenshire,4.0,2.0,1.0
+178,way/133323988-400,400.0,-1.799010269,57.47356357,Peterhead Shell,red,POINT (-1.799010269 57.47356357),1195.0,UKM50,3.0,UK,Aberdeen City and Aberdeenshire,Aberdeen City and Aberdeenshire,4.0,2.0,1.0
+179,way/135693940-275,275.0,-2.167232748,53.52874443,Whitegate,green,POINT (-2.167232748 53.52874443),1206.0,UKD37,3.0,UK,Greater Manchester North East,Greater Manchester North East,4.0,1.0,2.0
+180,way/137050527-275,275.0,-5.770344034,54.84331485,,red,POINT (-5.770344034 54.84331485),1421.0,UKN0F,3.0,UK,Mid and East Antrim,Mid and East Antrim,4.0,2.0,1.0
+181,way/142185552-275,275.0,-6.167467133,54.80150044,,red,POINT (-6.167467133 54.80150044),1435.0,UKN0D,3.0,UK,Antrim and Newtownabbey,Antrim and Newtownabbey,4.0,2.0,1.0
+182,way/142397822-400,400.0,-1.160724325,54.52456442,Lackenby,green,POINT (-1.160724325 54.52456442),1381.0,UKC12,3.0,UK,South Teesside,South Teesside,4.0,1.0,1.0
+183,way/142741752-400,400.0,-1.914974578,52.7566815,Rugeley,red,POINT (-1.914974578 52.7566815),1491.0,UKG24,3.0,UK,Staffordshire CC,Staffordshire CC,4.0,1.0,3.0
+184,way/142841192-275,275.0,-1.866071342,53.81028405,Bradford West,red,POINT (-1.866071342 53.81028405),1361.0,UKE41,3.0,UK,Bradford,Bradford,4.0,1.0,3.0
+185,way/142841192-400,400.0,-1.865806421,53.81050283,Bradford West,green,POINT (-1.865806421 53.81050283),1361.0,UKE41,3.0,UK,Bradford,Bradford,4.0,1.0,3.0
+186,way/142845284-400,400.0,-4.1687269,52.93910015,Trawsfynydd,red,POINT (-4.1687269 52.93910015),1371.0,UKL12,3.0,UK,Gwynedd,Gwynedd,2.0,3.0,1.0
+187,way/143105488-275,275.0,-4.43271067,55.44682731,Coylton,green,POINT (-4.43271067 55.44682731),1326.0,UKM93,3.0,UK,East Ayrshire and North Ayrshire mainland,East Ayrshire and North Ayrshire mainland,4.0,2.0,1.0
+188,way/143110887-275,275.0,-4.44548296,55.45627973,Coylton,red,POINT (-4.44548296 55.45627973),1326.0,UKM93,3.0,UK,East Ayrshire and North Ayrshire mainland,East Ayrshire and North Ayrshire mainland,4.0,2.0,1.0
+189,way/143221984-275,275.0,-2.163942527,55.01179066,Fourstones,green,POINT (-2.163942527 55.01179066),1105.0,UKC21,3.0,UK,Northumberland,Northumberland,4.0,2.0,1.0
+190,way/143383456-400,400.0,-3.867342197,55.61532861,Linnmill,green,POINT (-3.867342197 55.61532861),1441.0,UKM95,3.0,UK,South Lanarkshire,South Lanarkshire,4.0,1.0,2.0
+191,way/143388743-275,275.0,-4.495471092,55.59781347,Kilmarnock Town,green,POINT (-4.495471092 55.59781347),1326.0,UKM93,3.0,UK,East Ayrshire and North Ayrshire mainland,East Ayrshire and North Ayrshire mainland,4.0,2.0,1.0
+192,way/143398451-275,275.0,-4.478380958,55.80892556,Elderslie,green,POINT (-4.478380958 55.80892556),1456.0,UKM83,3.0,UK,"Inverclyde, East Renfrewshire and Renfrewshire","Inverclyde, East Renfrewshire and Renfrewshire",4.0,1.0,1.0
+193,way/143398451-400,400.0,-4.478118487,55.80914988,Elderslie,red,POINT (-4.478118487 55.80914988),1456.0,UKM83,3.0,UK,"Inverclyde, East Renfrewshire and Renfrewshire","Inverclyde, East Renfrewshire and Renfrewshire",4.0,1.0,1.0
+194,way/143783006-400,400.0,0.715474718,51.44475984,Kemsley,red,POINT (0.715474718 51.44475984),1498.0,UKJ41,3.0,UK,Medway,Medway,4.0,1.0,1.0
+195,way/143905069-275,275.0,-0.793715126,53.22793089,Staythorpe,green,POINT (-0.793715126 53.22793089),1112.0,UKF15,3.0,UK,North Nottinghamshire,North Nottinghamshire,4.0,1.0,2.0
+196,way/143905069-400,400.0,-0.793448115,53.22814734,Staythorpe,red,POINT (-0.793448115 53.22814734),1112.0,UKF15,3.0,UK,North Nottinghamshire,North Nottinghamshire,4.0,1.0,2.0
+197,way/147475796-275,275.0,-1.386335402,53.41217787,Thorpe Marsh,red,POINT (-1.386335402 53.41217787),1397.0,UKE31,3.0,UK,"Barnsley, Doncaster and Rotherham","Barnsley, Doncaster and Rotherham",4.0,1.0,2.0
+198,way/148266260-275,275.0,-5.878190233,54.56248157,,red,POINT (-5.878190233 54.56248157),1420.0,UKN0E,3.0,UK,Lisburn and Castlereagh,Lisburn and Castlereagh,4.0,2.0,2.0
+199,way/148382435,500.0,-4.980750725,55.06969911,Glenluce,red,POINT (-4.980750725 55.06969911),1440.0,UKM94,3.0,UK,South Ayrshire,South Ayrshire,4.0,2.0,1.0
+200,way/148382435-275,275.0,-4.980622976,55.06981172,Glenluce,green,POINT (-4.980622976 55.06981172),1440.0,UKM94,3.0,UK,South Ayrshire,South Ayrshire,4.0,2.0,1.0
+201,way/153884024-275,275.0,-3.061787852,53.36583655,Birkenhead,green,POINT (-3.061787852 53.36583655),1336.0,UKD74,3.0,UK,Wirral,Wirral,4.0,1.0,1.0
+202,way/159038999-400,400.0,-1.766954767,53.51670852,Elland,red,POINT (-1.766954767 53.51670852),1397.0,UKE31,3.0,UK,"Barnsley, Doncaster and Rotherham","Barnsley, Doncaster and Rotherham",4.0,1.0,2.0
+203,way/159736514-275,275.0,-1.351425759,53.40126502,Templeborough,green,POINT (-1.351425759 53.40126502),1397.0,UKE31,3.0,UK,"Barnsley, Doncaster and Rotherham","Barnsley, Doncaster and Rotherham",4.0,1.0,2.0
+204,way/159736514-400,400.0,-1.351160545,53.40148268,Templeborough,green,POINT (-1.351160545 53.40148268),1397.0,UKE31,3.0,UK,"Barnsley, Doncaster and Rotherham","Barnsley, Doncaster and Rotherham",4.0,1.0,2.0
+205,way/160279525-400,400.0,-0.151431822,53.56574009,Grimsby West,green,POINT (-0.151431822 53.56574009),1353.0,UKE13,3.0,UK,North and North East Lincolnshire,North and North East Lincolnshire,4.0,2.0,1.0
+206,way/160580052-400,400.0,-0.992442548,53.73621727,Camblesforth,green,POINT (-0.992442548 53.73621727),1277.0,UKE22,3.0,UK,North Yorkshire CC,North Yorkshire CC,4.0,2.0,1.0
+207,way/160616357-275,275.0,-1.32061173,53.44549313,West Melton,red,POINT (-1.32061173 53.44549313),1397.0,UKE31,3.0,UK,"Barnsley, Doncaster and Rotherham","Barnsley, Doncaster and Rotherham",4.0,1.0,2.0
+208,way/162124572-275,275.0,-4.349233635,55.91588855,Drumchapel,red,POINT (-4.349233635 55.91588855),1374.0,UKM82,3.0,UK,Glasgow City,Glasgow City,4.0,1.0,1.0
+209,way/163036722-275,275.0,-2.216340426,53.62169306,Rochdale,red,POINT (-2.216340426 53.62169306),1206.0,UKD37,3.0,UK,Greater Manchester North East,Greater Manchester North East,4.0,1.0,2.0
+210,way/163036722-400,400.0,-2.216078343,53.62191256,Rochdale,green,POINT (-2.216078343 53.62191256),1206.0,UKD37,3.0,UK,Greater Manchester North East,Greater Manchester North East,4.0,1.0,2.0
+211,way/164380199-275,275.0,-1.823010824,53.6944609,Elland,red,POINT (-1.823010824 53.6944609),1363.0,UKE44,3.0,UK,Calderdale and Kirklees,Calderdale and Kirklees,4.0,1.0,3.0
+212,way/16582436-400,400.0,0.329934476,51.42826879,Northfleet East,green,POINT (0.329934476 51.42826879),1506.0,UKJ43,3.0,UK,Kent Thames Gateway,Kent Thames Gateway,4.0,1.0,1.0
+213,way/166703758-275,275.0,-4.26229437,55.77430062,Giffnock,green,POINT (-4.26229437 55.77430062),1456.0,UKM83,3.0,UK,"Inverclyde, East Renfrewshire and Renfrewshire","Inverclyde, East Renfrewshire and Renfrewshire",4.0,1.0,1.0
+214,way/166703759-275,275.0,-4.25680578,55.90303777,Port Dundas,green,POINT (-4.25680578 55.90303777),1374.0,UKM82,3.0,UK,Glasgow City,Glasgow City,4.0,1.0,1.0
+215,way/166703764-275,275.0,-4.193884489,55.78590682,East Kilbride,green,POINT (-4.193884489 55.78590682),1441.0,UKM95,3.0,UK,South Lanarkshire,South Lanarkshire,4.0,1.0,2.0
+216,way/166703766-220,220.0,-2.948293468,57.52281119,Keith,red,POINT (-2.948293468 57.52281119),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+217,way/166703766-275,275.0,-2.948227259,57.52262412,Keith,red,POINT (-2.948227259 57.52262412),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+218,way/166703766-400,400.0,-2.947945143,57.52284556,Keith,red,POINT (-2.947945143 57.52284556),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+219,way/166764802-275,275.0,-6.027411367,54.57472272,,red,POINT (-6.027411367 54.57472272),1442.0,UKN06,3.0,UK,Belfast,Belfast,4.0,1.0,1.0
+220,way/167621580-275,275.0,-2.023180017,52.4984543,Oldbury,red,POINT (-2.023180017 52.4984543),1509.0,UKG37,3.0,UK,Sandwell,Sandwell,4.0,1.0,3.0
+221,way/167621580-400,400.0,-2.022923009,52.49867332,Oldbury,green,POINT (-2.022923009 52.49867332),1509.0,UKG37,3.0,UK,Sandwell,Sandwell,4.0,1.0,3.0
+222,way/183904046-275,275.0,-1.471399314,54.940107,West Boldon,red,POINT (-1.471399314 54.940107),1257.0,UKC22,3.0,UK,Tyneside,Tyneside,4.0,1.0,1.0
+223,way/184584639-275,275.0,-1.449609764,54.97335023,South Shields,green,POINT (-1.449609764 54.97335023),1257.0,UKC22,3.0,UK,Tyneside,Tyneside,4.0,1.0,1.0
+224,way/186747788-275,275.0,-1.488131583,54.03126418,Knaresborough,green,POINT (-1.488131583 54.03126418),1277.0,UKE22,3.0,UK,North Yorkshire CC,North Yorkshire CC,4.0,2.0,1.0
+225,way/190511290-400,400.0,-0.219808814,52.93205225,,red,POINT (-0.219808814 52.93205225),1198.0,UKF30,3.0,UK,Lincolnshire,Lincolnshire,4.0,2.0,1.0
+226,way/193617444-275,275.0,-1.282973628,53.71777657,Ferrybridge (_M),red,POINT (-1.282973628 53.71777657),1154.0,UKE45,3.0,UK,Wakefield,Wakefield,4.0,1.0,2.0
+227,way/193617444-400,400.0,-1.282706275,53.71799411,Ferrybridge (_M),green,POINT (-1.282706275 53.71799411),1154.0,UKE45,3.0,UK,Wakefield,Wakefield,4.0,1.0,2.0
+228,way/200511209-275,275.0,-1.404816013,54.80490997,Hawthorn Pit,red,POINT (-1.404816013 54.80490997),1104.0,UKC14,3.0,UK,Durham CC,Durham CC,4.0,1.0,1.0
+229,way/200511209-400,400.0,-1.40454287,54.80512785,Hawthorn Pit,green,POINT (-1.40454287 54.80512785),1104.0,UKC14,3.0,UK,Durham CC,Durham CC,4.0,1.0,1.0
+230,way/200635683-275,275.0,-1.457754335,54.88090288,Offerton,green,POINT (-1.457754335 54.88090288),1196.0,UKC23,3.0,UK,Sunderland,Sunderland,4.0,1.0,1.0
+231,way/203880168-275,275.0,-2.049273174,52.57785467,Willenhall,red,POINT (-2.049273174 52.57785467),1431.0,UKG38,3.0,UK,Walsall,Walsall,4.0,1.0,3.0
+232,way/20851038-400,400.0,-1.039880887,50.91705623,Lovedean,green,POINT (-1.039880887 50.91705623),1496.0,UKJ36,3.0,UK,Central Hampshire,Central Hampshire,4.0,1.0,1.0
+233,way/209404646-400,400.0,-1.229525146,54.50409955,Lackenby,red,POINT (-1.229525146 54.50409955),1277.0,UKE22,3.0,UK,North Yorkshire CC,North Yorkshire CC,4.0,2.0,1.0
+234,way/211549457-275,275.0,-1.376990168,53.50153054,West Melton,red,POINT (-1.376990168 53.50153054),1397.0,UKE31,3.0,UK,"Barnsley, Doncaster and Rotherham","Barnsley, Doncaster and Rotherham",4.0,1.0,2.0
+235,way/212779654-275,275.0,-3.929242287,55.76424291,Wishaw,green,POINT (-3.929242287 55.76424291),1457.0,UKM84,3.0,UK,North Lanarkshire,North Lanarkshire,4.0,1.0,2.0
+236,way/212779654-400,400.0,-3.928977017,55.76446612,Wishaw,green,POINT (-3.928977017 55.76446612),1457.0,UKM84,3.0,UK,North Lanarkshire,North Lanarkshire,4.0,1.0,2.0
+237,way/222205173-275,275.0,-3.945801923,55.82439463,Newarthill,red,POINT (-3.945801923 55.82439463),1457.0,UKM84,3.0,UK,North Lanarkshire,North Lanarkshire,4.0,1.0,2.0
+238,way/222987687-275,275.0,-3.145310335,51.49514748,Cardiff East,green,POINT (-3.145310335 51.49514748),1102.0,UKL22,3.0,UK,Cardiff and Vale of Glamorgan,Cardiff and Vale of Glamorgan,4.0,1.0,1.0
+239,way/227495569-275,275.0,-1.148808621,54.58058953,Lackenby,red,POINT (-1.148808621 54.58058953),1381.0,UKC12,3.0,UK,South Teesside,South Teesside,4.0,1.0,1.0
+240,way/227589012-400,400.0,-0.113517265,51.56149744,City Road,red,POINT (-0.113517265 51.56149744),1480.0,UKI43,3.0,UK,Haringey and Islington,Haringey and Islington,4.0,1.0,2.0
+241,way/227767019-275,275.0,-6.425293877,54.36994294,,red,POINT (-6.425293877 54.36994294),1135.0,UKN07,3.0,UK,"Armagh City, Banbridge and Craigavon","Armagh City, Banbridge and Craigavon",4.0,2.0,2.0
+242,way/227767022-275,275.0,-6.68167629,54.51194014,,red,POINT (-6.68167629 54.51194014),1430.0,UKN0B,3.0,UK,Mid Ulster,Mid Ulster,4.0,3.0,2.0
+243,way/22975329-275,275.0,-0.011616943,51.71403167,Rye House,red,POINT (-0.011616943 51.71403167),1400.0,UKH35,3.0,UK,West Essex,West Essex,4.0,2.0,2.0
+244,way/22975329-400,400.0,-0.011354467,51.71424635,Rye House,green,POINT (-0.011354467 51.71424635),1400.0,UKH35,3.0,UK,West Essex,West Essex,4.0,2.0,2.0
+245,way/230134599-275,275.0,-6.615797088,54.73025042,,red,POINT (-6.615797088 54.73025042),1430.0,UKN0B,3.0,UK,Mid Ulster,Mid Ulster,4.0,3.0,2.0
+246,way/23059230-400,400.0,-1.190382085,51.71111384,Cowley,green,POINT (-1.190382085 51.71111384),1254.0,UKJ14,3.0,UK,Oxfordshire,Oxfordshire,4.0,2.0,3.0
+247,way/23059268-275,275.0,-1.478542742,53.37473901,Sheffield City,red,POINT (-1.478542742 53.37473901),1398.0,UKE32,3.0,UK,Sheffield,Sheffield,4.0,1.0,2.0
+248,way/23132983-275,275.0,-0.048025926,51.60401883,Tottenham,green,POINT (-0.048025926 51.60401883),1480.0,UKI43,3.0,UK,Haringey and Islington,Haringey and Islington,4.0,1.0,2.0
+249,way/23164132-275,275.0,-2.947415239,53.26739661,Capenhurst,green,POINT (-2.947415239 53.26739661),1458.0,UKD63,3.0,UK,Cheshire West and Chester,Cheshire West and Chester,4.0,1.0,1.0
+250,way/23164132-400,400.0,-2.947158776,53.26761759,Capenhurst,red,POINT (-2.947158776 53.26761759),1458.0,UKD63,3.0,UK,Cheshire West and Chester,Cheshire West and Chester,4.0,1.0,1.0
+251,way/23164256-275,275.0,-2.716505993,53.30923427,Frodsham,red,POINT (-2.716505993 53.30923427),1458.0,UKD63,3.0,UK,Cheshire West and Chester,Cheshire West and Chester,4.0,1.0,1.0
+252,way/23164256-400,400.0,-2.716248141,53.30945478,Frodsham,green,POINT (-2.716248141 53.30945478),1458.0,UKD63,3.0,UK,Cheshire West and Chester,Cheshire West and Chester,4.0,1.0,1.0
+253,way/23228362-400,400.0,0.001220043,51.51941543,West Ham,green,POINT (0.001220043 51.51941543),1417.0,UKI41,3.0,UK,Hackney and Newham,Hackney and Newham,4.0,1.0,1.0
+254,way/23228569-275,275.0,-0.024450183,51.66361265,Brimsdown,green,POINT (-0.024450183 51.66361265),1492.0,UKI54,3.0,UK,Enfield,Enfield,4.0,1.0,2.0
+255,way/23229136-275,275.0,0.300724898,51.55274327,Warley,green,POINT (0.300724898 51.55274327),1485.0,UKI52,3.0,UK,Barking & Dagenham and Havering,Barking & Dagenham and Havering,4.0,1.0,1.0
+256,way/232319495-275,275.0,-4.054651831,58.04305564,Brora,red,POINT (-4.054651831 58.04305564),1273.0,UKM61,3.0,UK,Caithness & Sutherland and Ross & Cromarty,Caithness & Sutherland and Ross & Cromarty,2.0,3.0,1.0
+257,way/23232738-275,275.0,-0.498460443,51.54335267,Iver 66kV,green,POINT (-0.498460443 51.54335267),1312.0,UKJ13,3.0,UK,Buckinghamshire CC,Buckinghamshire CC,4.0,2.0,2.0
+258,way/23232738-400,400.0,-0.498201133,51.54356841,Iver 66kV,green,POINT (-0.498201133 51.54356841),1312.0,UKJ13,3.0,UK,Buckinghamshire CC,Buckinghamshire CC,4.0,2.0,2.0
+259,way/23234477-275,275.0,-0.40463477,51.64257245,Watford South,green,POINT (-0.40463477 51.64257245),1117.0,UKH23,3.0,UK,Hertfordshire,Hertfordshire,4.0,1.0,2.0
+260,way/23248656-275,275.0,-0.470274412,51.42397285,West Weybridge,green,POINT (-0.470274412 51.42397285),1401.0,UKJ25,3.0,UK,West Surrey,West Surrey,4.0,1.0,2.0
+261,way/23281217-400,400.0,0.975236305,51.10594272,Sellindge,red,POINT (0.975236305 51.10594272),1488.0,UKJ45,3.0,UK,Mid Kent,Mid Kent,4.0,2.0,2.0
+262,way/23299362-275,275.0,-0.127697257,51.37316493,Beddington (_J),green,POINT (-0.127697257 51.37316493),1500.0,UKI63,3.0,UK,"Merton, Kingston upon Thames and Sutton","Merton, Kingston upon Thames and Sutton",4.0,1.0,2.0
+263,way/23299362-400,400.0,-0.12743711,51.37337986,Beddington (_J),green,POINT (-0.12743711 51.37337986),1500.0,UKI63,3.0,UK,"Merton, Kingston upon Thames and Sutton","Merton, Kingston upon Thames and Sutton",4.0,1.0,2.0
+264,way/23299657-275,275.0,-0.003886794,51.35178004,Beddington (_J),red,POINT (-0.003886794 51.35178004),1493.0,UKI61,3.0,UK,Bromley,Bromley,4.0,1.0,2.0
+265,way/23299657-400,400.0,-0.003626187,51.3519947,Beddington (_J),red,POINT (-0.003626187 51.3519947),1493.0,UKI61,3.0,UK,Bromley,Bromley,4.0,1.0,2.0
+266,way/23390317-275,275.0,-0.323135725,51.34369679,Chessington,green,POINT (-0.323135725 51.34369679),1500.0,UKI63,3.0,UK,"Merton, Kingston upon Thames and Sutton","Merton, Kingston upon Thames and Sutton",4.0,1.0,2.0
+267,way/239248206-400,400.0,-4.792978682,57.32963357,Fasnakyle,green,POINT (-4.792978682 57.32963357),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+268,way/23988786-400,400.0,-1.487201922,50.94175903,Nursling,green,POINT (-1.487201922 50.94175903),1496.0,UKJ36,3.0,UK,Central Hampshire,Central Hampshire,4.0,1.0,1.0
+269,way/241491759-275,275.0,-2.347280722,56.9644504,Fiddes,red,POINT (-2.347280722 56.9644504),1195.0,UKM50,3.0,UK,Aberdeen City and Aberdeenshire,Aberdeen City and Aberdeenshire,4.0,2.0,1.0
+270,way/24165071-400,400.0,-0.249326346,51.92769348,Wymondley,green,POINT (-0.249326346 51.92769348),1117.0,UKH23,3.0,UK,Hertfordshire,Hertfordshire,4.0,1.0,2.0
+271,way/25422135-220,220.0,1.061598413,52.07118579,Bramford,green,POINT (1.061598413 52.07118579),1377.0,UKH14,3.0,UK,Suffolk,Suffolk,4.0,2.0,1.0
+272,way/25422135-400,400.0,1.061867845,52.07139812,Bramford,red,POINT (1.061867845 52.07139812),1377.0,UKH14,3.0,UK,Suffolk,Suffolk,4.0,2.0,1.0
+273,way/25492769-275,275.0,-1.598045298,53.80629037,Kirkstall,green,POINT (-1.598045298 53.80629037),1362.0,UKE42,3.0,UK,Leeds,Leeds,4.0,1.0,2.0
+274,way/25629803-400,400.0,-0.822070901,53.90040029,Creyke Beck,green,POINT (-0.822070901 53.90040029),1352.0,UKE12,3.0,UK,East Riding of Yorkshire,East Riding of Yorkshire,4.0,1.0,1.0
+275,way/257311344-400,400.0,-0.238416875,53.63835871,Grimsby West,red,POINT (-0.238416875 53.63835871),1353.0,UKE13,3.0,UK,North and North East Lincolnshire,North and North East Lincolnshire,4.0,2.0,1.0
+276,way/25784732-275,275.0,-2.029512031,52.54208261,Ocker Hill,red,POINT (-2.029512031 52.54208261),1509.0,UKG37,3.0,UK,Sandwell,Sandwell,4.0,1.0,3.0
+277,way/25935453-400,400.0,0.312368309,52.28079034,Burwell Main,green,POINT (0.312368309 52.28079034),1405.0,UKH12,3.0,UK,Cambridgeshire CC,Cambridgeshire CC,4.0,2.0,3.0
+278,way/260300448-275,275.0,-4.766018046,55.13763828,Maybole,red,POINT (-4.766018046 55.13763828),1440.0,UKM94,3.0,UK,South Ayrshire,South Ayrshire,4.0,2.0,1.0
+279,way/262523325-400,400.0,-2.539732673,55.91508806,Dunbar,green,POINT (-2.539732673 55.91508806),1465.0,UKM73,3.0,UK,East Lothian and Midlothian,East Lothian and Midlothian,4.0,1.0,1.0
+280,way/262532045-400,400.0,-2.665759301,55.82497487,Dunbar,red,POINT (-2.665759301 55.82497487),1325.0,UKM91,3.0,UK,Scottish Borders,Scottish Borders,4.0,3.0,1.0
+281,way/263863442-400,400.0,-1.259285862,51.62559782,Cowley,green,POINT (-1.259285862 51.62559782),1254.0,UKJ14,3.0,UK,Oxfordshire,Oxfordshire,4.0,2.0,3.0
+282,way/264102298-275,275.0,0.947372476,50.91460157,Sellindge,green,POINT (0.947372476 50.91460157),1487.0,UKJ44,3.0,UK,East Kent,East Kent,4.0,1.0,1.0
+283,way/264102298-400,400.0,0.947635138,50.91481412,Sellindge,red,POINT (0.947635138 50.91481412),1487.0,UKJ44,3.0,UK,East Kent,East Kent,4.0,1.0,1.0
+284,way/264104518-400,400.0,0.941964465,51.3379859,Canterbury,green,POINT (0.941964465 51.3379859),1506.0,UKJ43,3.0,UK,Kent Thames Gateway,Kent Thames Gateway,4.0,1.0,1.0
+285,way/264371625-275,275.0,0.043105206,51.58857898,Redbridge,green,POINT (0.043105206 51.58857898),1486.0,UKI53,3.0,UK,Redbridge and Waltham Forest,Redbridge and Waltham Forest,4.0,1.0,2.0
+286,way/26678829-400,400.0,-3.405315842,50.7675587,Exeter,green,POINT (-3.405315842 50.7675587),1495.0,UKK43,3.0,UK,Devon CC,Devon CC,4.0,2.0,1.0
+287,way/26938722-400,400.0,-3.730387109,50.4716399,Abham,green,POINT (-3.730387109 50.4716399),1495.0,UKK43,3.0,UK,Devon CC,Devon CC,4.0,2.0,1.0
+288,way/27163121-275,275.0,-3.165631141,55.89140647,Kaimes,red,POINT (-3.165631141 55.89140647),1466.0,UKM75,3.0,UK,"Edinburgh, City of","Edinburgh, City of",4.0,1.0,1.0
+289,way/27163121-400,400.0,-3.16536086,55.89162814,Kaimes,green,POINT (-3.16536086 55.89162814),1466.0,UKM75,3.0,UK,"Edinburgh, City of","Edinburgh, City of",4.0,1.0,1.0
+290,way/27332350-275,275.0,-3.308887651,55.90228535,Currie,red,POINT (-3.308887651 55.90228535),1466.0,UKM75,3.0,UK,"Edinburgh, City of","Edinburgh, City of",4.0,1.0,1.0
+291,way/280317944-220,220.0,-3.474266058,53.24987711,Connahs Quay,green,POINT (-3.474266058 53.24987711),1311.0,UKL13,3.0,UK,Conwy and Denbighshire,Conwy and Denbighshire,2.0,2.0,1.0
+292,way/280317944-400,400.0,-3.474012352,53.25009917,Connahs Quay,red,POINT (-3.474012352 53.25009917),1311.0,UKL13,3.0,UK,Conwy and Denbighshire,Conwy and Denbighshire,2.0,2.0,1.0
+293,way/28194931-275,275.0,-2.013462225,52.43108518,Kitwell,green,POINT (-2.013462225 52.43108518),1390.0,UKG31,3.0,UK,Birmingham,Birmingham,4.0,1.0,3.0
+294,way/284874050-275,275.0,-3.672576152,55.43713102,Linnmill,green,POINT (-3.672576152 55.43713102),1441.0,UKM95,3.0,UK,South Lanarkshire,South Lanarkshire,4.0,1.0,2.0
+295,way/284874050-400,400.0,-3.672311398,55.43735368,Linnmill,red,POINT (-3.672311398 55.43735368),1441.0,UKM95,3.0,UK,South Lanarkshire,South Lanarkshire,4.0,1.0,2.0
+296,way/28691559-400,400.0,0.448395392,50.88121601,Ninfield,green,POINT (0.448395392 50.88121601),1256.0,UKJ22,3.0,UK,East Sussex CC,East Sussex CC,4.0,2.0,1.0
+297,way/29111844-400,400.0,0.566501994,51.59375911,Rayleigh,green,POINT (0.566501994 51.59375911),1412.0,UKH37,3.0,UK,Essex Thames Gateway,Essex Thames Gateway,4.0,1.0,1.0
+298,way/292371992-275,275.0,-3.132684795,51.20606344,Bridgewater,green,POINT (-3.132684795 51.20606344),1470.0,UKK23,3.0,UK,Somerset,Somerset,4.0,2.0,1.0
+299,way/292371992-400,400.0,-3.132439503,51.2062847,Bridgewater,red,POINT (-3.132439503 51.2062847),1470.0,UKK23,3.0,UK,Somerset,Somerset,4.0,2.0,1.0
+300,way/292471784-400,400.0,-2.670208739,51.53676435,Seabank,green,POINT (-2.670208739 51.53676435),1339.0,UKK11,3.0,UK,"Bristol, City of","Bristol, City of",4.0,1.0,1.0
+301,way/295657862-275,275.0,-3.83249079,51.61695521,Swansea North,red,POINT (-3.83249079 51.61695521),1182.0,UKL17,3.0,UK,Bridgend and Neath Port Talbot,Bridgend and Neath Port Talbot,2.0,1.0,1.0
+302,way/297840585,600.0,-4.89482119,55.71803677,Hunterston Farm,red,POINT (-4.89482119 55.71803677),1326.0,UKM93,3.0,UK,East Ayrshire and North Ayrshire mainland,East Ayrshire and North Ayrshire mainland,4.0,2.0,1.0
+303,way/297840585-220,220.0,-4.895060251,55.71804399,Hunterston Farm,red,POINT (-4.895060251 55.71804399),1326.0,UKM93,3.0,UK,East Ayrshire and North Ayrshire mainland,East Ayrshire and North Ayrshire mainland,4.0,2.0,1.0
+304,way/297840585-400,400.0,-4.894711935,55.71791699,Hunterston Farm,green,POINT (-4.894711935 55.71791699),1326.0,UKM93,3.0,UK,East Ayrshire and North Ayrshire mainland,East Ayrshire and North Ayrshire mainland,4.0,2.0,1.0
+305,way/306451400-275,275.0,-3.420053174,57.55683906,Elgin,red,POINT (-3.420053174 57.55683906),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+306,way/307717807-275,275.0,-5.112889333,56.40280357,Taynuilt,green,POINT (-5.112889333 56.40280357),1274.0,UKM63,3.0,UK,"Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute","Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute",3.0,3.0,1.0
+307,way/307769998-275,275.0,-5.013490714,56.42011576,Ardkinglas,green,POINT (-5.013490714 56.42011576),1274.0,UKM63,3.0,UK,"Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute","Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute",3.0,3.0,1.0
+308,way/308653819-275,275.0,-4.163262053,55.74089307,East Kilbride South,red,POINT (-4.163262053 55.74089307),1441.0,UKM95,3.0,UK,South Lanarkshire,South Lanarkshire,4.0,1.0,2.0
+309,way/308724683-275,275.0,-4.013229107,55.85120353,Coatbridge,red,POINT (-4.013229107 55.85120353),1457.0,UKM84,3.0,UK,North Lanarkshire,North Lanarkshire,4.0,1.0,2.0
+310,way/308724719-275,275.0,-3.992945468,55.82857437,Coatbridge,green,POINT (-3.992945468 55.82857437),1457.0,UKM84,3.0,UK,North Lanarkshire,North Lanarkshire,4.0,1.0,2.0
+311,way/308802191-275,275.0,-4.171318502,55.69555708,East Kilbride South,green,POINT (-4.171318502 55.69555708),1441.0,UKM95,3.0,UK,South Lanarkshire,South Lanarkshire,4.0,1.0,2.0
+312,way/30930911-275,275.0,-2.848206369,53.46905192,Kirkby (_D),red,POINT (-2.848206369 53.46905192),1459.0,UKD71,3.0,UK,East Merseyside,East Merseyside,4.0,1.0,1.0
+313,way/31015820-275,275.0,-0.170447509,51.52734472,St Johns Wood,red,POINT (-0.170447509 51.52734472),1414.0,UKI32,3.0,UK,Westminster,Westminster,4.0,1.0,1.0
+314,way/31015820-400,400.0,-0.170186757,51.52755974,St Johns Wood,green,POINT (-0.170186757 51.52755974),1414.0,UKI32,3.0,UK,Westminster,Westminster,4.0,1.0,1.0
+315,way/310495264-400,400.0,-2.988690799,53.87899354,Stanah,red,POINT (-2.988690799 53.87899354),1244.0,UKD44,3.0,UK,Lancaster and Wyre,Lancaster and Wyre,4.0,1.0,1.0
+316,way/310502642-275,275.0,-1.531549937,55.14120363,Blyth 66kV,red,POINT (-1.531549937 55.14120363),1105.0,UKC21,3.0,UK,Northumberland,Northumberland,4.0,2.0,1.0
+317,way/310502642-400,400.0,-1.531218281,55.14106731,Blyth 66kV,red,POINT (-1.531218281 55.14106731),1105.0,UKC21,3.0,UK,Northumberland,Northumberland,4.0,2.0,1.0
+318,way/311840838-275,275.0,-1.183275602,54.63566251,Saltholme,red,POINT (-1.183275602 54.63566251),1380.0,UKC11,3.0,UK,Hartlepool and Stockton-on-Tees,Hartlepool and Stockton-on-Tees,4.0,1.0,1.0
+319,way/313180501-400,400.0,-0.146144683,53.60139848,Grimsby West,green,POINT (-0.146144683 53.60139848),1353.0,UKE13,3.0,UK,North and North East Lincolnshire,North and North East Lincolnshire,4.0,2.0,1.0
+320,way/313495269-400,400.0,-1.129891872,53.71333149,Ferrybridge (_M),green,POINT (-1.129891872 53.71333149),1277.0,UKE22,3.0,UK,North Yorkshire CC,North Yorkshire CC,4.0,2.0,1.0
+321,way/314338790-400,400.0,-0.781350604,53.30073276,Staythorpe,green,POINT (-0.781350604 53.30073276),1112.0,UKF15,3.0,UK,North Nottinghamshire,North Nottinghamshire,4.0,1.0,2.0
+322,way/315213320-275,275.0,-2.688965836,53.37141739,Fiddlers Ferry,green,POINT (-2.688965836 53.37141739),1396.0,UKD61,3.0,UK,Warrington,Warrington,4.0,1.0,1.0
+323,way/31545125-275,275.0,-1.960550344,52.55302635,Bustleholme,red,POINT (-1.960550344 52.55302635),1509.0,UKG37,3.0,UK,Sandwell,Sandwell,4.0,1.0,3.0
+324,way/31545125-400,400.0,-1.960292744,52.55324524,Bustleholme,red,POINT (-1.960292744 52.55324524),1509.0,UKG37,3.0,UK,Sandwell,Sandwell,4.0,1.0,3.0
+325,way/32075668-275,275.0,-3.305473457,55.92840882,Sighthill,red,POINT (-3.305473457 55.92840882),1466.0,UKM75,3.0,UK,"Edinburgh, City of","Edinburgh, City of",4.0,1.0,1.0
+326,way/32227788-400,400.0,1.272295269,52.57403635,Norwich Main,green,POINT (1.272295269 52.57403635),1423.0,UKH17,3.0,UK,Breckland and South Norfolk,Breckland and South Norfolk,4.0,3.0,2.0
+327,way/32342648-275,275.0,-3.124479455,55.95330177,Portobello,green,POINT (-3.124479455 55.95330177),1466.0,UKM75,3.0,UK,"Edinburgh, City of","Edinburgh, City of",4.0,1.0,1.0
+328,way/32604320-275,275.0,0.154790143,51.43265939,Littlebrook (_J),green,POINT (0.154790143 51.43265939),1484.0,UKI51,3.0,UK,Bexley and Greenwich,Bexley and Greenwich,4.0,1.0,1.0
+329,way/32604320-400,400.0,0.155051905,51.43287371,Littlebrook (_J),red,POINT (0.155051905 51.43287371),1484.0,UKI51,3.0,UK,Bexley and Greenwich,Bexley and Greenwich,4.0,1.0,1.0
+330,way/32796576-400,400.0,-1.077280275,51.33629201,Fleet,green,POINT (-1.077280275 51.33629201),1497.0,UKJ37,3.0,UK,North Hampshire,North Hampshire,4.0,1.0,2.0
+331,way/335589232-275,275.0,-3.603829267,55.46517263,Linnmill,red,POINT (-3.603829267 55.46517263),1441.0,UKM95,3.0,UK,South Lanarkshire,South Lanarkshire,4.0,1.0,2.0
+332,way/339008021-275,275.0,-5.767923224,54.72709864,,red,POINT (-5.767923224 54.72709864),1421.0,UKN0F,3.0,UK,Mid and East Antrim,Mid and East Antrim,4.0,2.0,1.0
+333,way/33917128-275,275.0,-0.415371661,53.80049727,Creyke Beck,green,POINT (-0.415371661 53.80049727),1352.0,UKE12,3.0,UK,East Riding of Yorkshire,East Riding of Yorkshire,4.0,1.0,1.0
+334,way/33917128-400,400.0,-0.415009106,53.80058931,Creyke Beck,green,POINT (-0.415009106 53.80058931),1352.0,UKE12,3.0,UK,East Riding of Yorkshire,East Riding of Yorkshire,4.0,1.0,1.0
+335,way/34205588-400,400.0,-2.924399798,50.78678955,Axminster,green,POINT (-2.924399798 50.78678955),1495.0,UKK43,3.0,UK,Devon CC,Devon CC,4.0,2.0,1.0
+336,way/34656007-400,400.0,-4.242535214,50.44487758,Landulph,green,POINT (-4.242535214 50.44487758),1367.0,UKK30,3.0,UK,Cornwall and Isles of Scilly,Cornwall and Isles of Scilly,4.0,2.0,1.0
+337,way/367005272-275,275.0,-2.738349596,53.42119482,Rainhill,green,POINT (-2.738349596 53.42119482),1459.0,UKD71,3.0,UK,East Merseyside,East Merseyside,4.0,1.0,1.0
+338,way/371757485-275,275.0,-0.042919586,51.55902906,Hackney,red,POINT (-0.042919586 51.55902906),1417.0,UKI41,3.0,UK,Hackney and Newham,Hackney and Newham,4.0,1.0,1.0
+339,way/371757485-400,400.0,-0.042658075,51.55924381,Hackney,green,POINT (-0.042658075 51.55924381),1417.0,UKI41,3.0,UK,Hackney and Newham,Hackney and Newham,4.0,1.0,1.0
+340,way/375626500-400,400.0,-3.032722036,53.23035211,Connahs Quay,red,POINT (-3.032722036 53.23035211),1175.0,UKL23,3.0,UK,Flintshire and Wrexham,Flintshire and Wrexham,4.0,1.0,1.0
+341,way/376450057-400,400.0,-0.133275466,52.80578628,,green,POINT (-0.133275466 52.80578628),1198.0,UKF30,3.0,UK,Lincolnshire,Lincolnshire,4.0,2.0,1.0
+342,way/402783212-275,275.0,-7.24826436,55.04227531,,red,POINT (-7.24826436 55.04227531),1373.0,UKN0A,3.0,UK,Derry City and Strabane,Derry City and Strabane,4.0,2.0,1.0
+343,way/40685663-275,275.0,-3.201663327,55.93121428,Whitehouse,green,POINT (-3.201663327 55.93121428),1466.0,UKM75,3.0,UK,"Edinburgh, City of","Edinburgh, City of",4.0,1.0,1.0
+344,way/41710456-400,400.0,-0.656036424,51.66486854,Amersham Main,green,POINT (-0.656036424 51.66486854),1312.0,UKJ13,3.0,UK,Buckinghamshire CC,Buckinghamshire CC,4.0,2.0,2.0
+345,way/422486984-275,275.0,-3.889527804,56.03908918,Bonnybridge,green,POINT (-3.889527804 56.03908918),1467.0,UKM76,3.0,UK,Falkirk,Falkirk,4.0,1.0,1.0
+346,way/422486984-400,400.0,-3.889260663,56.03931235,Bonnybridge,red,POINT (-3.889260663 56.03931235),1467.0,UKM76,3.0,UK,Falkirk,Falkirk,4.0,1.0,1.0
+347,way/42800878-400,400.0,-3.031050789,51.54782223,Imperial Park,green,POINT (-3.031050789 51.54782223),1134.0,UKL21,3.0,UK,Monmouthshire and Newport,Monmouthshire and Newport,4.0,1.0,1.0
+348,way/43303585-275,275.0,-1.237757734,54.60539426,Saltholme,red,POINT (-1.237757734 54.60539426),1380.0,UKC11,3.0,UK,Hartlepool and Stockton-on-Tees,Hartlepool and Stockton-on-Tees,4.0,1.0,1.0
+349,way/43303585-400,400.0,-1.237484927,54.60561177,Saltholme,red,POINT (-1.237484927 54.60561177),1380.0,UKC11,3.0,UK,Hartlepool and Stockton-on-Tees,Hartlepool and Stockton-on-Tees,4.0,1.0,1.0
+350,way/433545528-220,220.0,-3.459101001,53.3304007,Birkenhead,red,POINT (-3.459101001 53.3304007),1311.0,UKL13,3.0,UK,Conwy and Denbighshire,Conwy and Denbighshire,2.0,2.0,1.0
+351,way/43472283-275,275.0,-1.364848222,54.59219436,Norton,red,POINT (-1.364848222 54.59219436),1380.0,UKC11,3.0,UK,Hartlepool and Stockton-on-Tees,Hartlepool and Stockton-on-Tees,4.0,1.0,1.0
+352,way/43472283-400,400.0,-1.364576157,54.59241214,Norton,red,POINT (-1.364576157 54.59241214),1380.0,UKC11,3.0,UK,Hartlepool and Stockton-on-Tees,Hartlepool and Stockton-on-Tees,4.0,1.0,1.0
+353,way/447297184-275,275.0,-0.058816398,51.48414545,New Cross,red,POINT (-0.058816398 51.48414545),1482.0,UKI44,3.0,UK,Lewisham and Southwark,Lewisham and Southwark,4.0,1.0,1.0
+354,way/447301159-400,400.0,-0.095886403,51.53039835,City Road,red,POINT (-0.095886403 51.53039835),1480.0,UKI43,3.0,UK,Haringey and Islington,Haringey and Islington,4.0,1.0,2.0
+355,way/45087479-275,275.0,-2.480825235,51.5694821,Iron Acton,green,POINT (-2.480825235 51.5694821),1340.0,UKK12,3.0,UK,"Bath and North East Somerset, North Somerset and South Gloucestershire","Bath and North East Somerset, North Somerset and South Gloucestershire",4.0,1.0,1.0
+356,way/4715504-400,400.0,-1.232597803,50.88478848,Botley Wood,green,POINT (-1.232597803 50.88478848),1496.0,UKJ36,3.0,UK,Central Hampshire,Central Hampshire,4.0,1.0,1.0
+357,way/472164401-400,400.0,-1.050302248,52.95994874,Stoke Bardolph,green,POINT (-1.050302248 52.95994874),1119.0,UKF16,3.0,UK,South Nottinghamshire,South Nottinghamshire,4.0,1.0,3.0
+358,way/472289073-275,275.0,-3.609040011,55.40454054,Dumfries,green,POINT (-3.609040011 55.40454054),1441.0,UKM95,3.0,UK,South Lanarkshire,South Lanarkshire,4.0,1.0,2.0
+359,way/4746208-275,275.0,-0.343157112,51.66047143,Elstree,red,POINT (-0.343157112 51.66047143),1117.0,UKH23,3.0,UK,Hertfordshire,Hertfordshire,4.0,1.0,2.0
+360,way/4746208-400,400.0,-0.342896467,51.66068683,Elstree,red,POINT (-0.342896467 51.66068683),1117.0,UKH23,3.0,UK,Hertfordshire,Hertfordshire,4.0,1.0,2.0
+361,way/4797228-275,275.0,-0.20911928,51.61785412,Mill Hill,green,POINT (-0.20911928 51.61785412),1501.0,UKI71,3.0,UK,Barnet,Barnet,4.0,1.0,2.0
+362,way/48876730-275,275.0,-2.969321415,51.11716097,Bridgewater,green,POINT (-2.969321415 51.11716097),1470.0,UKK23,3.0,UK,Somerset,Somerset,4.0,2.0,1.0
+363,way/48876730-400,400.0,-2.96907577,51.11738189,Bridgewater,red,POINT (-2.96907577 51.11738189),1470.0,UKK23,3.0,UK,Somerset,Somerset,4.0,2.0,1.0
+364,way/494951597-400,400.0,0.286476977,51.49195864,West Thurrock,green,POINT (0.286476977 51.49195864),1174.0,UKH32,3.0,UK,Thurrock,Thurrock,4.0,1.0,1.0
+365,way/49499923-275,275.0,-1.714379958,52.530953,Hams Hall,green,POINT (-1.714379958 52.530953),1305.0,UKG13,3.0,UK,Warwickshire,Warwickshire,4.0,1.0,3.0
+366,way/49499923-400,400.0,-1.714121274,52.53117138,Hams Hall,green,POINT (-1.714121274 52.53117138),1305.0,UKG13,3.0,UK,Warwickshire,Warwickshire,4.0,1.0,3.0
+367,way/495512689-400,400.0,-3.947205223,56.26205254,Braco West,red,POINT (-3.947205223 56.26205254),1510.0,UKM77,3.0,UK,Perth & Kinross and Stirling,Perth & Kinross and Stirling,2.0,2.0,1.0
+368,way/495512692-400,400.0,-4.028475775,56.70699438,Tummel Bridge,green,POINT (-4.028475775 56.70699438),1510.0,UKM77,3.0,UK,Perth & Kinross and Stirling,Perth & Kinross and Stirling,2.0,2.0,1.0
+369,way/495624575-275,275.0,-3.512714811,58.56423307,Thurso,green,POINT (-3.512714811 58.56423307),1273.0,UKM61,3.0,UK,Caithness & Sutherland and Ross & Cromarty,Caithness & Sutherland and Ross & Cromarty,2.0,3.0,1.0
+370,way/49601061-400,400.0,-0.25736922,51.53409061,Willesden 132kV,green,POINT (-0.25736922 51.53409061),1503.0,UKI73,3.0,UK,Ealing,Ealing,4.0,1.0,2.0
+371,way/49922626-400,400.0,-2.488599023,50.62388124,Chickerell,green,POINT (-2.488599023 50.62388124),1481.0,UKK25,3.0,UK,Dorset,Dorset,4.0,2.0,1.0
+372,way/533670766-400,400.0,-0.016510745,51.53159953,West Ham,red,POINT (-0.016510745 51.53159953),1418.0,UKI42,3.0,UK,Tower Hamlets,Tower Hamlets,4.0,1.0,1.0
+373,way/536905500-400,400.0,-3.050363602,53.2365916,Connahs Quay,red,POINT (-3.050363602 53.2365916),1175.0,UKL23,3.0,UK,Flintshire and Wrexham,Flintshire and Wrexham,4.0,1.0,1.0
+374,way/55284068-275,275.0,-1.463657016,52.45601066,Coventry,green,POINT (-1.463657016 52.45601066),1478.0,UKG33,3.0,UK,Coventry,Coventry,4.0,1.0,3.0
+375,way/553490952-400,400.0,-3.548061966,51.74636331,Swansea North,red,POINT (-3.548061966 51.74636331),1489.0,UKL15,3.0,UK,Central Valleys,Central Valleys,3.0,1.0,2.0
+376,way/567187951-275,275.0,-3.879158411,58.51215379,Dounreay,red,POINT (-3.879158411 58.51215379),1273.0,UKM61,3.0,UK,Caithness & Sutherland and Ross & Cromarty,Caithness & Sutherland and Ross & Cromarty,2.0,3.0,1.0
+377,way/568527671,320.0,-2.950413996,57.52117497,Keith,green,POINT (-2.950413996 57.52117497),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+378,way/576238223-400,400.0,1.607895399,52.20755656,Norwich Main,green,POINT (1.607895399 52.20755656),1377.0,UKH14,3.0,UK,Suffolk,Suffolk,4.0,2.0,1.0
+379,way/59736773-275,275.0,-3.201029099,56.2069709,Glenrothes,green,POINT (-3.201029099 56.2069709),1386.0,UKM72,3.0,UK,Clackmannanshire and Fife,Clackmannanshire and Fife,4.0,1.0,1.0
+380,way/624256368-275,275.0,-4.274602635,57.94989456,Shin,red,POINT (-4.274602635 57.94989456),1273.0,UKM61,3.0,UK,Caithness & Sutherland and Ross & Cromarty,Caithness & Sutherland and Ross & Cromarty,2.0,3.0,1.0
+381,way/630939126-275,275.0,-4.299807734,57.69879144,Alness,red,POINT (-4.299807734 57.69879144),1273.0,UKM61,3.0,UK,Caithness & Sutherland and Ross & Cromarty,Caithness & Sutherland and Ross & Cromarty,2.0,3.0,1.0
+382,way/635226843-400,400.0,0.191031309,52.75600746,,red,POINT (0.191031309 52.75600746),1198.0,UKF30,3.0,UK,Lincolnshire,Lincolnshire,4.0,2.0,1.0
+383,way/635713005-220,220.0,-3.274956512,53.48615793,,red,POINT (-3.274956512 53.48615793),,,,,,,,,
+384,way/635829123-220,220.0,0.198779153,52.72672158,Walpole (_A),red,POINT (0.198779153 52.72672158),1422.0,UKH16,3.0,UK,North and West Norfolk,North and West Norfolk,4.0,3.0,1.0
+385,way/635829123-400,400.0,0.199048175,52.72693585,Walpole (_A),green,POINT (0.199048175 52.72693585),1422.0,UKH16,3.0,UK,North and West Norfolk,North and West Norfolk,4.0,3.0,1.0
+386,way/635836276-275,275.0,-0.23190657,53.74707796,Saltend North,green,POINT (-0.23190657 53.74707796),1352.0,UKE12,3.0,UK,East Riding of Yorkshire,East Riding of Yorkshire,4.0,1.0,1.0
+387,way/636630368-400,400.0,-1.194313257,50.81814424,Lovedean,red,POINT (-1.194313257 50.81814424),1429.0,UKJ35,3.0,UK,South Hampshire,South Hampshire,4.0,1.0,1.0
+388,way/636630371-400,400.0,-1.285068182,50.83562429,Botley Wood,red,POINT (-1.285068182 50.83562429),1429.0,UKJ35,3.0,UK,South Hampshire,South Hampshire,4.0,1.0,1.0
+389,way/642490160,515.0,-1.540426916,55.14647596,Blyth 66kV,green,POINT (-1.540426916 55.14647596),1105.0,UKC21,3.0,UK,Northumberland,Northumberland,4.0,2.0,1.0
+390,way/65482882-275,275.0,-2.968197672,55.96663681,Cockenzie,red,POINT (-2.968197672 55.96663681),1465.0,UKM73,3.0,UK,East Lothian and Midlothian,East Lothian and Midlothian,4.0,1.0,1.0
+391,way/65482882-400,400.0,-2.96792583,55.96685808,Cockenzie,green,POINT (-2.96792583 55.96685808),1465.0,UKM73,3.0,UK,East Lothian and Midlothian,East Lothian and Midlothian,4.0,1.0,1.0
+392,way/676646876-400,400.0,-3.428474968,55.30102086,Dumfries,green,POINT (-3.428474968 55.30102086),952.0,UKM92,3.0,UK,Dumfries & Galloway,Dumfries & Galloway,4.0,3.0,1.0
+393,way/676775628-275,275.0,-4.763695263,55.049358,Glenluce,red,POINT (-4.763695263 55.049358),1440.0,UKM94,3.0,UK,South Ayrshire,South Ayrshire,4.0,2.0,1.0
+394,way/677510482-275,275.0,-4.335031211,55.34450012,Coylton,red,POINT (-4.335031211 55.34450012),1326.0,UKM93,3.0,UK,East Ayrshire and North Ayrshire mainland,East Ayrshire and North Ayrshire mainland,4.0,2.0,1.0
+395,way/677513264-220,220.0,-5.458135751,55.69692198,Carradale,red,POINT (-5.458135751 55.69692198),1274.0,UKM63,3.0,UK,"Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute","Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute",3.0,3.0,1.0
+396,way/677845115-400,400.0,-4.012721052,50.38905382,Abham,green,POINT (-4.012721052 50.38905382),1495.0,UKK43,3.0,UK,Devon CC,Devon CC,4.0,2.0,1.0
+397,way/681875115-400,400.0,-1.440205231,50.89834216,Nursling,red,POINT (-1.440205231 50.89834216),1496.0,UKJ36,3.0,UK,Central Hampshire,Central Hampshire,4.0,1.0,1.0
+398,way/68515955-275,275.0,-4.494402024,57.46644139,Beauly,red,POINT (-4.494402024 57.46644139),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+399,way/68515955-400,400.0,-4.49412943,57.46666596,Beauly,green,POINT (-4.49412943 57.46666596),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+400,way/689624522-275,275.0,-4.374689859,57.31756147,Inverness,red,POINT (-4.374689859 57.31756147),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+401,way/689626274-400,400.0,-4.470529413,57.02726384,Fort Augustus,red,POINT (-4.470529413 57.02726384),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+402,way/701436399-220,220.0,-0.260823016,53.65663129,Grimsby West,red,POINT (-0.260823016 53.65663129),1353.0,UKE13,3.0,UK,North and North East Lincolnshire,North and North East Lincolnshire,4.0,2.0,1.0
+403,way/701436399-400,400.0,-0.260550884,53.65684662,Grimsby West,green,POINT (-0.260550884 53.65684662),1353.0,UKE13,3.0,UK,North and North East Lincolnshire,North and North East Lincolnshire,4.0,2.0,1.0
+404,way/71118225-400,400.0,-1.553097472,52.85519637,Drakelow,green,POINT (-1.553097472 52.85519637),1161.0,UKF13,3.0,UK,South and West Derbyshire,South and West Derbyshire,4.0,1.0,3.0
+405,way/730870685-275,275.0,-3.681578146,56.05104314,Grangemouth,green,POINT (-3.681578146 56.05104314),1386.0,UKM72,3.0,UK,Clackmannanshire and Fife,Clackmannanshire and Fife,4.0,1.0,1.0
+406,way/762272690-275,275.0,-4.066787747,57.30110569,Inverness,red,POINT (-4.066787747 57.30110569),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+407,way/76468460-275,275.0,-3.693769983,56.00460775,Grangemouth,green,POINT (-3.693769983 56.00460775),1467.0,UKM76,3.0,UK,Falkirk,Falkirk,4.0,1.0,1.0
+408,way/77065229-400,400.0,0.118460111,51.93505282,Pelham,green,POINT (0.118460111 51.93505282),1117.0,UKH23,3.0,UK,Hertfordshire,Hertfordshire,4.0,1.0,2.0
+409,way/775577829-400,400.0,1.144968072,51.09855294,Sellindge,red,POINT (1.144968072 51.09855294),1487.0,UKJ44,3.0,UK,East Kent,East Kent,4.0,1.0,1.0
+410,way/778717371-275,275.0,-3.599421067,57.50405712,Nairn,red,POINT (-3.599421067 57.50405712),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+411,way/785730495-275,275.0,-1.089053186,53.57850934,Thorpe Marsh,green,POINT (-1.089053186 53.57850934),1397.0,UKE31,3.0,UK,"Barnsley, Doncaster and Rotherham","Barnsley, Doncaster and Rotherham",4.0,1.0,2.0
+412,way/785730495-400,400.0,-1.088785654,53.57872645,Thorpe Marsh,red,POINT (-1.088785654 53.57872645),1397.0,UKE31,3.0,UK,"Barnsley, Doncaster and Rotherham","Barnsley, Doncaster and Rotherham",4.0,1.0,2.0
+413,way/796648851-275,275.0,-1.471569691,53.34858558,Jordanthorpe,green,POINT (-1.471569691 53.34858558),1398.0,UKE32,3.0,UK,Sheffield,Sheffield,4.0,1.0,2.0
+414,way/81098733-275,275.0,-2.819483009,53.562597,Washway Farm,green,POINT (-2.819483009 53.562597),1395.0,UKD47,3.0,UK,Chorley and West Lancashire,Chorley and West Lancashire,4.0,1.0,1.0
+415,way/814351697-400,400.0,0.598549967,51.41855325,Kingsnorth,green,POINT (0.598549967 51.41855325),1498.0,UKJ41,3.0,UK,Medway,Medway,4.0,1.0,1.0
+416,way/820229174-275,275.0,-4.245682384,57.42194651,Inverness,green,POINT (-4.245682384 57.42194651),1246.0,UKM62,3.0,UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey",2.0,2.0,1.0
+417,way/820237569-400,400.0,-2.516056398,57.40999278,Kintore,red,POINT (-2.516056398 57.40999278),1195.0,UKM50,3.0,UK,Aberdeen City and Aberdeenshire,Aberdeen City and Aberdeenshire,4.0,2.0,1.0
+418,way/842685465-275,275.0,-2.849826533,57.45195874,Keith,red,POINT (-2.849826533 57.45195874),1195.0,UKM50,3.0,UK,Aberdeen City and Aberdeenshire,Aberdeen City and Aberdeenshire,4.0,2.0,1.0
+419,way/84803250-275,275.0,-3.403191696,51.38833487,Aberthaw,green,POINT (-3.403191696 51.38833487),1102.0,UKL22,3.0,UK,Cardiff and Vale of Glamorgan,Cardiff and Vale of Glamorgan,4.0,1.0,1.0
+420,way/86071326-275,275.0,-4.377262536,55.92984947,Drumchapel,green,POINT (-4.377262536 55.92984947),1473.0,UKM81,3.0,UK,"East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond","East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond",2.0,1.0,1.0
+421,way/86071326-400,400.0,-4.376998788,55.9300736,Drumchapel,red,POINT (-4.376998788 55.9300736),1473.0,UKM81,3.0,UK,"East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond","East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond",2.0,1.0,1.0
+422,way/87204522-275,275.0,-1.652042356,52.77468755,Drakelow,red,POINT (-1.652042356 52.77468755),1161.0,UKF13,3.0,UK,South and West Derbyshire,South and West Derbyshire,4.0,1.0,3.0
+423,way/87204522-400,400.0,-1.65178207,52.77490581,Drakelow,green,POINT (-1.65178207 52.77490581),1161.0,UKF13,3.0,UK,South and West Derbyshire,South and West Derbyshire,4.0,1.0,3.0
+424,way/87207123-400,400.0,-2.083385659,53.04085816,Cellarhead,red,POINT (-2.083385659 53.04085816),1491.0,UKG24,3.0,UK,Staffordshire CC,Staffordshire CC,4.0,1.0,3.0
+425,way/87464485-400,400.0,0.00856706,51.75904502,Rye House,green,POINT (0.00856706 51.75904502),1117.0,UKH23,3.0,UK,Hertfordshire,Hertfordshire,4.0,1.0,2.0
+426,way/87953830-400,400.0,1.096375597,51.29372071,Canterbury,green,POINT (1.096375597 51.29372071),1487.0,UKJ44,3.0,UK,East Kent,East Kent,4.0,1.0,1.0
+427,way/88287125-400,400.0,-0.727876277,52.24314497,Grendon,green,POINT (-0.727876277 52.24314497),1238.0,UKF25,3.0,UK,North Northamptonshire,North Northamptonshire,4.0,1.0,3.0
+428,way/88389243-400,400.0,-0.881812113,51.25086753,Fleet,green,POINT (-0.881812113 51.25086753),1497.0,UKJ37,3.0,UK,North Hampshire,North Hampshire,4.0,1.0,2.0
+429,way/884174267-275,275.0,-2.908745365,51.56472739,Uskmouth,red,POINT (-2.908745365 51.56472739),1134.0,UKL21,3.0,UK,Monmouthshire and Newport,Monmouthshire and Newport,4.0,1.0,1.0
+430,way/884174267-400,400.0,-2.908497308,51.5649482,Uskmouth,green,POINT (-2.908497308 51.5649482),1134.0,UKL21,3.0,UK,Monmouthshire and Newport,Monmouthshire and Newport,4.0,1.0,1.0
+431,way/89038614-400,400.0,-0.301682372,52.21479599,Eaton Socon,green,POINT (-0.301682372 52.21479599),1118.0,UKH24,3.0,UK,Bedford,Bedford,4.0,1.0,3.0
+432,way/89427607-400,400.0,-4.48023347,53.41520817,Wylfa,green,POINT (-4.48023347 53.41520817),1471.0,UKL11,3.0,UK,Isle of Anglesey,Isle of Anglesey,4.0,3.0,1.0
+433,way/89453364-400,400.0,-0.677593692,51.90437449,Sundon,red,POINT (-0.677593692 51.90437449),1172.0,UKH25,3.0,UK,Central Bedfordshire,Central Bedfordshire,4.0,1.0,3.0
+434,way/895564309-220,220.0,-0.226607776,52.94474275,,red,POINT (-0.226607776 52.94474275),1198.0,UKF30,3.0,UK,Lincolnshire,Lincolnshire,4.0,2.0,1.0
+435,way/895564309-400,400.0,-0.226339582,52.94495796,,green,POINT (-0.226339582 52.94495796),1198.0,UKF30,3.0,UK,Lincolnshire,Lincolnshire,4.0,2.0,1.0
+436,way/89573357-275,275.0,-3.947015409,52.92694327,Trawsfynydd,red,POINT (-3.947015409 52.92694327),1371.0,UKL12,3.0,UK,Gwynedd,Gwynedd,2.0,3.0,1.0
+437,way/89573357-400,400.0,-3.94676574,52.92716626,Trawsfynydd,green,POINT (-3.94676574 52.92716626),1371.0,UKL12,3.0,UK,Gwynedd,Gwynedd,2.0,3.0,1.0
+438,way/89573358-400,400.0,-4.090135647,52.92807205,Trawsfynydd,red,POINT (-4.090135647 52.92807205),1371.0,UKL12,3.0,UK,Gwynedd,Gwynedd,2.0,3.0,1.0
+439,way/89699558-275,275.0,-3.292936689,56.10595644,Glenniston,green,POINT (-3.292936689 56.10595644),1386.0,UKM72,3.0,UK,Clackmannanshire and Fife,Clackmannanshire and Fife,4.0,1.0,1.0
+440,way/89836009-275,275.0,-3.730603794,56.07508685,Bainsford,green,POINT (-3.730603794 56.07508685),1386.0,UKM72,3.0,UK,Clackmannanshire and Fife,Clackmannanshire and Fife,4.0,1.0,1.0
+441,way/90099036-400,400.0,-1.895122345,50.84686404,Mannington,green,POINT (-1.895122345 50.84686404),1481.0,UKK25,3.0,UK,Dorset,Dorset,4.0,2.0,1.0
+442,way/90125443-400,400.0,-1.023372145,53.95680107,Osbaldwick,green,POINT (-1.023372145 53.95680107),1245.0,UKE21,3.0,UK,York,York,4.0,2.0,2.0
+443,way/90534270-400,400.0,-1.216754105,52.59756067,Enderby,green,POINT (-1.216754105 52.59756067),1236.0,UKF22,3.0,UK,Leicestershire CC and Rutland,Leicestershire CC and Rutland,4.0,1.0,3.0
+444,way/90539508-400,400.0,-1.601911119,53.48771149,West Melton,green,POINT (-1.601911119 53.48771149),1398.0,UKE32,3.0,UK,Sheffield,Sheffield,4.0,1.0,2.0
+445,way/90547674-275,275.0,-1.266652175,53.75624844,Ferrybridge (_M),red,POINT (-1.266652175 53.75624844),1277.0,UKE22,3.0,UK,North Yorkshire CC,North Yorkshire CC,4.0,2.0,1.0
+446,way/90547674-400,400.0,-1.266384519,53.75646594,Ferrybridge (_M),green,POINT (-1.266384519 53.75646594),1277.0,UKE22,3.0,UK,North Yorkshire CC,North Yorkshire CC,4.0,2.0,1.0
+447,way/90547685-275,275.0,-1.26859529,53.40487399,Thurcroft,red,POINT (-1.26859529 53.40487399),1397.0,UKE31,3.0,UK,"Barnsley, Doncaster and Rotherham","Barnsley, Doncaster and Rotherham",4.0,1.0,2.0
+448,way/91003253-400,400.0,-0.868880547,53.07711915,Staythorpe,green,POINT (-0.868880547 53.07711915),1112.0,UKF15,3.0,UK,North Nottinghamshire,North Nottinghamshire,4.0,1.0,2.0
+449,way/91010022-400,400.0,0.741584793,51.36834373,Kemsley,green,POINT (0.741584793 51.36834373),1506.0,UKJ43,3.0,UK,Kent Thames Gateway,Kent Thames Gateway,4.0,1.0,1.0
+450,way/91010711-400,400.0,0.392417549,51.40501629,Northfleet East,red,POINT (0.392417549 51.40501629),1506.0,UKJ43,3.0,UK,Kent Thames Gateway,Kent Thames Gateway,4.0,1.0,1.0
+451,way/91056548-400,400.0,-4.708722533,55.91593627,Devol Moor,green,POINT (-4.708722533 55.91593627),1456.0,UKM83,3.0,UK,"Inverclyde, East Renfrewshire and Renfrewshire","Inverclyde, East Renfrewshire and Renfrewshire",4.0,1.0,1.0
+452,way/91082448-400,400.0,-0.235817265,50.97526715,Bolney,green,POINT (-0.235817265 50.97526715),1425.0,UKJ28,3.0,UK,West Sussex (North East),West Sussex (North East),4.0,1.0,2.0
+453,way/91955171-275,275.0,-1.743259312,54.97763398,Stella North,red,POINT (-1.743259312 54.97763398),1257.0,UKC22,3.0,UK,Tyneside,Tyneside,4.0,1.0,1.0
+454,way/91955171-400,400.0,-1.742986904,54.97785259,Stella North,red,POINT (-1.742986904 54.97785259),1257.0,UKC22,3.0,UK,Tyneside,Tyneside,4.0,1.0,1.0
+455,way/92221420-275,275.0,-2.114551087,52.63634339,Bushbury,green,POINT (-2.114551087 52.63634339),1432.0,UKG39,3.0,UK,Wolverhampton,Wolverhampton,4.0,1.0,3.0
+456,way/92260633-275,275.0,-1.615545483,52.38583135,Berkswell,green,POINT (-1.615545483 52.38583135),1472.0,UKG32,3.0,UK,Solihull,Solihull,4.0,1.0,3.0
+457,way/92331023-275,275.0,-1.387922093,53.22454782,Chesterfield,green,POINT (-1.387922093 53.22454782),1160.0,UKF12,3.0,UK,East Derbyshire,East Derbyshire,4.0,1.0,3.0
+458,way/92340133-400,400.0,-0.907568308,51.92634688,East Claydon,green,POINT (-0.907568308 51.92634688),1312.0,UKJ13,3.0,UK,Buckinghamshire CC,Buckinghamshire CC,4.0,2.0,2.0
+459,way/92419253-275,275.0,-2.121051354,53.2685301,Macclesfield,green,POINT (-2.121051354 53.2685301),1349.0,UKD62,3.0,UK,Cheshire East,Cheshire East,4.0,1.0,2.0
+460,way/92419253-400,400.0,-2.120790726,53.26874937,Macclesfield,green,POINT (-2.120790726 53.26874937),1349.0,UKD62,3.0,UK,Cheshire East,Cheshire East,4.0,1.0,2.0
+461,way/92458761-275,275.0,-2.209156721,52.55620771,Penn,green,POINT (-2.209156721 52.55620771),1491.0,UKG24,3.0,UK,Staffordshire CC,Staffordshire CC,4.0,1.0,3.0
+462,way/92458761-400,400.0,-2.208900321,52.55642713,Penn,red,POINT (-2.208900321 52.55642713),1491.0,UKG24,3.0,UK,Staffordshire CC,Staffordshire CC,4.0,1.0,3.0
+463,way/92460913-400,400.0,-2.253502367,51.87945314,Walham,green,POINT (-2.253502367 51.87945314),1100.0,UKK13,3.0,UK,Gloucestershire,Gloucestershire,4.0,2.0,1.0
+464,way/925179651-400,400.0,0.537112158,51.7655581,Braintree,red,POINT (0.537112158 51.7655581),1411.0,UKH36,3.0,UK,Heart of Essex,Heart of Essex,4.0,1.0,1.0
+465,way/92529432-275,275.0,-2.379442977,53.42589888,Carrington,green,POINT (-2.379442977 53.42589888),1148.0,UKD34,3.0,UK,Greater Manchester South West,Greater Manchester South West,4.0,1.0,2.0
+466,way/92529432-400,400.0,-2.379182794,53.4261187,Carrington,red,POINT (-2.379182794 53.4261187),1148.0,UKD34,3.0,UK,Greater Manchester South West,Greater Manchester South West,4.0,1.0,2.0
+467,way/92737152-275,275.0,-2.276032069,53.42086379,South Manchester,green,POINT (-2.276032069 53.42086379),1148.0,UKD34,3.0,UK,Greater Manchester South West,Greater Manchester South West,4.0,1.0,2.0
+468,way/93299730-400,400.0,-0.224006135,51.52620529,Willesden 132kV,red,POINT (-0.224006135 51.52620529),1415.0,UKI33,3.0,UK,Kensington & Chelsea and Hammersmith & Fulham,Kensington & Chelsea and Hammersmith & Fulham,4.0,1.0,1.0
+469,way/93878867-275,275.0,-2.12966191,53.41474049,Bredbury,red,POINT (-2.12966191 53.41474049),1149.0,UKD35,3.0,UK,Greater Manchester South East,Greater Manchester South East,4.0,1.0,2.0
+470,way/94004582-220,220.0,-2.890915193,54.03231995,Heysham,red,POINT (-2.890915193 54.03231995),1244.0,UKD44,3.0,UK,Lancaster and Wyre,Lancaster and Wyre,4.0,1.0,1.0
+471,way/94004582-400,400.0,-2.890654295,54.03254088,Heysham,green,POINT (-2.890654295 54.03254088),1244.0,UKD44,3.0,UK,Lancaster and Wyre,Lancaster and Wyre,4.0,1.0,1.0
+472,way/94530230-275,275.0,0.389856346,51.45995983,Tilbury,green,POINT (0.389856346 51.45995983),1174.0,UKH32,3.0,UK,Thurrock,Thurrock,4.0,1.0,1.0
+473,way/94530230-400,400.0,0.390119336,51.46017363,Tilbury,red,POINT (0.390119336 51.46017363),1174.0,UKH32,3.0,UK,Thurrock,Thurrock,4.0,1.0,1.0
+474,way/94543520-275,275.0,-1.896005466,52.5270181,Bustleholme,green,POINT (-1.896005466 52.5270181),1390.0,UKG31,3.0,UK,Birmingham,Birmingham,4.0,1.0,3.0
+475,way/95279334-400,400.0,-2.002022274,51.60760665,Minety,green,POINT (-2.002022274 51.60760665),1464.0,UKK15,3.0,UK,Wiltshire CC,Wiltshire CC,4.0,2.0,2.0
+476,way/95338682-400,400.0,-3.053220067,53.02882769,Legacy,green,POINT (-3.053220067 53.02882769),1175.0,UKL23,3.0,UK,Flintshire and Wrexham,Flintshire and Wrexham,4.0,1.0,1.0
+477,way/95374266-275,275.0,-3.300651188,56.16422675,Westfield,green,POINT (-3.300651188 56.16422675),1386.0,UKM72,3.0,UK,Clackmannanshire and Fife,Clackmannanshire and Fife,4.0,1.0,1.0
+478,way/95749833-275,275.0,-3.300621406,51.63564619,Upper Boat,red,POINT (-3.300621406 51.63564619),1181.0,UKL16,3.0,UK,Gwent Valleys,Gwent Valleys,2.0,1.0,2.0
+479,way/95749833-400,400.0,-3.300374882,51.63586781,Upper Boat,green,POINT (-3.300374882 51.63586781),1181.0,UKL16,3.0,UK,Gwent Valleys,Gwent Valleys,2.0,1.0,2.0
+480,way/95895489-400,400.0,-3.226599417,51.80840261,Rassau,green,POINT (-3.226599417 51.80840261),1181.0,UKL16,3.0,UK,Gwent Valleys,Gwent Valleys,2.0,1.0,2.0
+481,way/96067520-275,275.0,-2.242310664,52.3122244,Bishops Wood,green,POINT (-2.242310664 52.3122244),1304.0,UKG12,3.0,UK,Worcestershire,Worcestershire,4.0,2.0,3.0
+482,way/96107758-275,275.0,-1.972929855,52.25088923,Feckenham,green,POINT (-1.972929855 52.25088923),1304.0,UKG12,3.0,UK,Worcestershire,Worcestershire,4.0,2.0,3.0
+483,way/96107758-400,400.0,-1.972673887,52.25110813,Feckenham,green,POINT (-1.972673887 52.25110813),1304.0,UKG12,3.0,UK,Worcestershire,Worcestershire,4.0,2.0,3.0
+484,way/96630594-275,275.0,-1.500057562,55.02367531,Tynemouth,green,POINT (-1.500057562 55.02367531),1257.0,UKC22,3.0,UK,Tyneside,Tyneside,4.0,1.0,1.0
+485,way/96905262-275,275.0,-3.036220121,55.90844114,Cockenzie,green,POINT (-3.036220121 55.90844114),1465.0,UKM73,3.0,UK,East Lothian and Midlothian,East Lothian and Midlothian,4.0,1.0,1.0
+486,way/96905262-400,400.0,-3.035949017,55.90866255,Cockenzie,green,POINT (-3.035949017 55.90866255),1465.0,UKM73,3.0,UK,East Lothian and Midlothian,East Lothian and Midlothian,4.0,1.0,1.0
+487,way/97256377-275,275.0,-2.358007714,53.53760103,Kearsley,red,POINT (-2.358007714 53.53760103),1205.0,UKD36,3.0,UK,Greater Manchester North West,Greater Manchester North West,4.0,1.0,2.0
+488,way/97256377-400,400.0,-2.357746812,53.53782082,Kearsley,green,POINT (-2.357746812 53.53782082),1205.0,UKD36,3.0,UK,Greater Manchester North West,Greater Manchester North West,4.0,1.0,2.0
+489,way/97551523-400,400.0,-2.416744038,55.94883803,Dunbar,green,POINT (-2.416744038 55.94883803),1465.0,UKM73,3.0,UK,East Lothian and Midlothian,East Lothian and Midlothian,4.0,1.0,1.0
+490,way/97561542-275,275.0,-1.116723104,54.60650024,Lackenby,green,POINT (-1.116723104 54.60650024),1381.0,UKC12,3.0,UK,South Teesside,South Teesside,4.0,1.0,1.0
+491,way/975637991,320.0,-1.271945117,60.29340063,Fraserburgh,red,POINT (-1.271945117 60.29340063),1384.0,UKM66,3.0,UK,Shetland Islands,Shetland Islands,4.0,3.0,1.0
+492,way/98788846-275,275.0,-3.130159886,51.48195979,Cardiff East,red,POINT (-3.130159886 51.48195979),1102.0,UKL22,3.0,UK,Cardiff and Vale of Glamorgan,Cardiff and Vale of Glamorgan,4.0,1.0,1.0
+493,way/98899051-400,400.0,-4.158252803,53.18749105,Pentir,red,POINT (-4.158252803 53.18749105),1371.0,UKL12,3.0,UK,Gwynedd,Gwynedd,2.0,3.0,1.0
+494,relation/12832053,,6.65477661,59.53010059,Overseas,yellow,POINT (6.65477661 59.53010059),882.0,NO0A1,3.0,NO,Rogaland,Rogaland,2.0,2.0,1.0
+495,way/1101832649,,9.167976905,55.50508207,Overseas,yellow,POINT (9.167976905 55.50508207),420.0,DK032,3.0,DK,Sydjylland,Sydjylland,4.0,2.0,1.0
+496,way/1271288346,,1.782002752,50.903459,Overseas,yellow,POINT (1.782002752 50.903459),838.0,FRE12,3.0,FR,Pas-de-Calais,Pas-de-Calais,4.0,2.0,1.0
+497,way/260836695,,-6.567545296,53.47122516,Overseas,yellow,POINT (-6.567545296 53.47122516),1243.0,IE062,3.0,IE,Mid-East,Mid-East,4.0,2.0,1.0
+498,way/500788534,,3.209720385,51.26506849,Overseas,yellow,POINT (3.209720385 51.26506849),75.0,BE251,3.0,BE,Arr. Brugge,Arr. Brugge,4.0,2.0,1.0
+499,way/753113423,,-0.262011294,49.11086276,Overseas,yellow,POINT (-0.262011294 49.11086276),1075.0,FRD11,3.0,FR,Calvados,Calvados,4.0,2.0,1.0
+500,way/775577827,,1.780552033,50.92022947,Overseas,yellow,POINT (1.780552033 50.92022947),838.0,FRE12,3.0,FR,Pas-de-Calais,Pas-de-Calais,4.0,2.0,1.0
+501,way/920127890,,4.021609638,51.95695896,Overseas,yellow,POINT (4.021609638 51.95695896),878.0,NL33C,3.0,NL,Groot-Rijnmond,Groot-Rijnmond,4.0,1.0,1.0
+502,relation/1308263895,,-3.501782,52.301692,Added,red,POINT (-3.501782 52.301692),1162.0,UKL24,3.0,UK,Powys,Powys,2.0,3.0,2.0
+503,way/548102212,,-2.716592,52.0592802,Added,red,POINT (-2.716592 52.0592802),1199.0,UKG11,3.0,UK,"Herefordshire, County of","Herefordshire, County of",4.0,3.0,2.0
+504,way/1093736519,,-1.782727,51.5618,Added,red,POINT (-1.782727 51.5618),1101.0,UKK14,3.0,UK,Swindon,Swindon,4.0,2.0,2.0
+505,relation/13118184,,-2.480247,52.710001,Added,red,POINT (-2.480247 52.710001),1306.0,UKG21,3.0,UK,Telford and Wrekin,Telford and Wrekin,4.0,2.0,3.0
+506,way/238523057,,-2.116984,52.4897102,Added,red,POINT (-2.116984 52.4897102),1479.0,UKG36,3.0,UK,Dudley,Dudley,4.0,1.0,3.0
+507,way/1235196581,,-1.836348,50.73147,Added,red,POINT (-1.836348 50.73147),1469.0,UKK24,3.0,UK,"Bournemouth, Christchurch and Poole","Bournemouth, Christchurch and Poole",4.0,1.0,1.0
+508,way/688025880,,-1.29207,50.703429,Added,red,POINT (-1.29207 50.703429),1428.0,UKJ34,3.0,UK,Isle of Wight,Isle of Wight,4.0,2.0,1.0
+509,way/979549827,,-2.970396,58.976541,Added,red,POINT (-2.970396 58.976541),1113.0,UKM65,3.0,UK,Orkney Islands,Orkney Islands,4.0,3.0,1.0
+510,relation/9572717,,-4.112345,50.368118,Added,red,POINT (-4.112345 50.368118),1126.0,UKK41,3.0,UK,Plymouth,Plymouth,4.0,1.0,1.0
+511,way/944284094,,-3.570819,50.438462,Added,red,POINT (-3.570819 50.438462),1136.0,UKK42,3.0,UK,Torbay,Torbay,4.0,1.0,1.0
+512,way/1378071947,,-0.127176,50.834871,Added,red,POINT (-0.127176 50.834871),1255.0,UKJ21,3.0,UK,Brighton and Hove,Brighton and Hove,4.0,1.0,1.0
+513,way/774629952,,-1.373565,50.898705,Added,red,POINT (-1.373565 50.898705),1427.0,UKJ32,3.0,UK,Southampton,Southampton,4.0,1.0,1.0
+514,way/1307310485,,-1.559017,54.546298,Added,red,POINT (-1.559017 54.546298),1382.0,UKC13,3.0,UK,Darlington,Darlington,4.0,1.0,2.0
+515,way/1162837486,,-3.610147,55.900152,Added,red,POINT (-3.610147 55.900152),1468.0,UKM78,3.0,UK,West Lothian,West Lothian,4.0,1.0,1.0
+516,relation/5648199,,1.28047,52.638015,Added,red,POINT (1.28047 52.638015),1378.0,UKH15,3.0,UK,Norwich and East Norfolk,Norwich and East Norfolk,4.0,1.0,1.0
+517,way/1386002943,,-0.327191,53.756374,Added,red,POINT (-0.327191 53.756374),1337.0,UKE11,3.0,UK,"Kingston upon Hull, City of","Kingston upon Hull, City of",4.0,1.0,1.0
+518,way/144108127,,-3.028872,53.849211,Added,red,POINT (-3.028872 53.849211),1208.0,UKD42,3.0,UK,Blackpool,Blackpool,4.0,1.0,1.0
+519,way/632866272,,0.710452,51.550234,Added,red,POINT (0.710452 51.550234),1173.0,UKH31,3.0,UK,Southend-on-Sea,Southend-on-Sea,4.0,1.0,1.0
+520,way/1242456441,,-6.380565,58.21587,Added,red,POINT (-6.380565 58.21587),1508.0,UKM64,3.0,UK,Na h-Eileanan Siar (Western Isles),Na h-Eileanan Siar (Western Isles),4.0,3.0,1.0
+521,way/862058622,,-7.364038,57.336373,Added,red,POINT (-7.364038 57.336373),1508.0,UKM64,3.0,UK,Na h-Eileanan Siar (Western Isles),Na h-Eileanan Siar (Western Isles),4.0,3.0,1.0
+522,way/1234995942,,-2.951541,53.482179,Added,red,POINT (-2.951541 53.482179),1335.0,UKD73,3.0,UK,Sefton,Sefton,4.0,1.0,1.0
+523,relation/12698636,,-2.168398,53.012863,Added,red,POINT (-2.168398 53.012863),1393.0,UKG23,3.0,UK,Stoke-on-Trent,Stoke-on-Trent,4.0,1.0,3.0
+524,way/988844180,,-3.136256,54.601635,Added,red,POINT (-3.136256 54.601635),1164.0,UKD11,3.0,UK,West Cumbria,West Cumbria,4.0,2.0,1.0
+525,way/93264071,,-0.767037,50.8167,Added,red,POINT (-0.767037 50.8167),1463.0,UKJ27,3.0,UK,West Sussex (South West),West Sussex (South West),4.0,1.0,1.0
+526,way/1395741085,,-1.103204,50.792928,Added,red,POINT (-1.103204 50.792928),1426.0,UKJ31,3.0,UK,Portsmouth,Portsmouth,4.0,1.0,1.0
+527,way/204256468,,-2.231355,53.47319,Added,red,POINT (-2.231355 53.47319),1165.0,UKD33,3.0,UK,Manchester,Manchester,4.0,1.0,2.0
+528,relation/12841365,,-1.400573,52.905264,Added,red,POINT (-1.400573 52.905264),1159.0,UKF11,3.0,UK,Derby,Derby,4.0,1.0,3.0
+529,way/85644212,,-1.151584,52.951409,Added,red,POINT (-1.151584 52.951409),1103.0,UKF14,3.0,UK,Nottingham,Nottingham,4.0,1.0,3.0
+530,way/117106941,,-1.141252,52.622538,Added,red,POINT (-1.141252 52.622538),1120.0,UKF21,3.0,UK,Leicester,Leicester,4.0,1.0,3.0
+531,way/254062373,,-0.881261,52.229411,Added,red,POINT (-0.881261 52.229411),1237.0,UKF24,3.0,UK,West Northamptonshire,West Northamptonshire,4.0,2.0,3.0
+532,way/119791288,,-0.243243,52.567492,Added,red,POINT (-0.243243 52.567492),1433.0,UKH11,3.0,UK,Peterborough,Peterborough,4.0,1.0,2.0
+533,way/316450893,,-0.796305,52.049519,Added,red,POINT (-0.796305 52.049519),1310.0,UKJ12,3.0,UK,Milton Keynes,Milton Keynes,4.0,1.0,3.0
+534,way/110273527,,-0.401085,51.874487,Added,red,POINT (-0.401085 51.874487),1406.0,UKH21,3.0,UK,Luton,Luton,4.0,1.0,2.0
+535,way/94070118,,-1.002403,51.429339,Added,red,POINT (-1.002403 51.429339),1419.0,UKJ11,3.0,UK,Berkshire,Berkshire,4.0,1.0,2.0
+536,way/1412483411,,-0.162201,51.200277,Added,red,POINT (-0.162201 51.200277),1462.0,UKJ26,3.0,UK,East Surrey,East Surrey,4.0,1.0,2.0
+537,way/1182278114,,-0.326142,51.48605,Added,red,POINT (-0.326142 51.48605),1505.0,UKI75,3.0,UK,Hounslow and Richmond upon Thames,Hounslow and Richmond upon Thames,4.0,1.0,1.0
+538,way/1250851193,,-0.451962,51.534166,Added,red,POINT (-0.451962 51.534166),1504.0,UKI74,3.0,UK,Harrow and Hillingdon,Harrow and Hillingdon,4.0,1.0,2.0
+539,way/250962683,,-0.258098,51.545075,Added,red,POINT (-0.258098 51.545075),1502.0,UKI72,3.0,UK,Brent,Brent,4.0,1.0,2.0
+540,way/447748328,,-0.136906,51.539316,Added,red,POINT (-0.136906 51.539316),1413.0,UKI31,3.0,UK,Camden and City of London,Camden and City of London,4.0,1.0,1.0
+541,way/675153143,,0.271833,51.197375,Added,red,POINT (0.271833 51.197375),1338.0,UKJ46,3.0,UK,West Kent,West Kent,4.0,2.0,1.0
+542,way/1132374248,,-0.136468,51.461563,Added,red,POINT (-0.136468 51.461563),1483.0,UKI45,3.0,UK,Lambeth,Lambeth,4.0,1.0,1.0
+543,way/1393615422,,-0.183128,51.446823,Added,red,POINT (-0.183128 51.446823),1416.0,UKI34,3.0,UK,Wandsworth,Wandsworth,4.0,1.0,1.0
