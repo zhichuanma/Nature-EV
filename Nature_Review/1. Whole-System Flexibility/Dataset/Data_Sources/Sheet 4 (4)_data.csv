@@ -1,0 +1,198 @@
+﻿City,Country,Data Center,Latitude (generated),Longitude (generated),Number of Records
+Wyoming,United States,,43.076,-107.2903,
+"Washington, D.C.",United States,,38.895,-77.0366,
+Washington DC,United States,,38.895,-77.0366,
+Virginia,United States,,37.4316,-78.6569,
+Texas,United States,,31.9686,-99.9018,
+South Carolina,United States,,33.8361,-81.1637,
+San Jose,United States,,37.3382,-121.8863,
+Salt Lake City,United States,,40.767,-111.8904,
+Phoenix,United States,,33.4484,-112.074,
+Oregon,United States,,43.8041,-120.5542,
+Ohio,United States,,40.4173,-82.9071,
+North Virginia,United States,,37.4316,-78.6569,
+North Carolina,United States,,35.7596,-79.0193,
+Montreal,United States,,45.5017,-73.5673,
+Los Angeles,United States,,34.0544,-118.2439,
+Las Vegas,United States,,36.1699,-115.1398,
+IOWA,United States,,30.2369,-93.0138,
+Illinois,United States,,40.6331,-89.3985,
+Houston,United States,,29.7604,-95.3698,
+Dallas,United States,,32.7767,-96.797,
+California,United States,,36.7783,-119.4179,
+Ashburn,United States,,39.0438,-77.4874,
+London,United Kingdom,,51.5073,-0.1276,
+Cardiff,United Kingdom,,51.4817,-3.1792,
+London,UK,,51.5073,-0.1276,
+Dubai,UAE,,25.252,55.28,
+Abu Dhabi,UAE,,24.466,54.366,
+Amsterdam,The Netherlands,,52.378,4.9,
+Taiwan,Taiwan,,23.6978,120.9605,
+Zurich,Switzerland,,47.3786,8.54,
+Geneva,Switzerland,,46.206,6.1453,
+Stockholm,Sweden,,59.3294,18.0686,
+Seoul,South Korea,,37.5665,126.978,
+Busan,South Korea,,35.1025,129.0349,
+Johannesburg,South Africa,,-26.1633,28.0328,
+Cape Town,South Africa,,-33.9351,18.4289,
+Singapore,Singapore,,1.289,103.85,
+Jeddah,Saudi Arabia,,21.5428,39.1728,
+Stavanger,Norway,,58.97,5.733,
+Oslo,Norway,,59.912,10.746,
+Ireland,Northern Island,,53.1424,-7.6921,
+Netherlands,Netherlands,,52.1326,5.2913,
+Amsterdam,Netherlands,,52.378,4.9,
+Mexico City,Mexico,,19.4194,-99.1456,
+Seoul,Korea,,37.5665,126.978,
+Tokyo,Japan,,35.68,139.77,
+Osaka,Japan,,34.693,135.502,
+Milan,Italy,,45.4642,9.1903,
+Ireland,Ireland,,53.1424,-7.6921,
+Pune,India,,18.5236,73.8478,
+Mumbai,India,,18.9667,72.8333,
+Hyderabad,India,,17.3667,78.4667,
+Chennai,India,,13.09,80.27,
+Hong Kong,Hong Kong,,22.3193,114.1694,
+Magdeburg,Germany,,52.1333,11.6167,
+Frankfurt,Germany,,50.1109,8.6821,
+Berlin,Germany,,52.5167,13.3833,
+Paris,France,,48.8566,2.3518,
+Marseille,France,,43.2967,5.3764,
+Finland,Finland,,61.9241,25.7482,
+Shanghai,China,,31.1667,121.4667,
+Hong Kong,China,,22.3193,114.1694,
+Beijing,China,,39.905,116.3914,
+Toronto,Canada,,43.6529,-79.3849,
+Quebec City,Canada,,46.8257,-71.2349,
+Montreal,Canada,,45.5017,-73.5673,
+São Paulo,Brazil,,-23.5507,-46.6334,
+Sao Paulo,Brazil,,-23.5507,-46.6334,
+Belgium,Belgium,,50.5577,4.4699,
+Bahrain,Bahrain,,26.0667,50.5577,
+Victoria,Australia,,48.4284,-123.3656,
+Sydney,Australia,,-33.868,151.21,
+New South Wales,Australia,,31.2532,146.9211,
+Melbourne,Australia,,-37.8142,144.9632,
+Canberra,Australia,,-35.2819,149.1289,
+Finland,Finland,Google Cloud,61.9241,25.7482,1
+Oslo,Norway,IBM Cloud,59.912,10.746,1
+Oslo,Norway,Microsoft Azure,59.912,10.746,1
+Stockholm,Sweden,Amazon,59.3294,18.0686,1
+Stavanger,Norway,Microsoft Azure,58.97,5.733,1
+Ireland,Northern Island,Amazon,53.1424,-7.6921,1
+Ireland,Ireland,Microsoft Azure,53.1424,-7.6921,1
+Berlin,Germany,Microsoft Azure,52.5167,13.3833,1
+Amsterdam,The Netherlands,IBM Cloud,52.378,4.9,1
+Amsterdam,Netherlands,Oracle,52.378,4.9,1
+Magdeburg,Germany,Microsoft Azure,52.1333,11.6167,1
+Netherlands,Netherlands,Google Cloud,52.1326,5.2913,1
+Netherlands,Netherlands,Microsoft Azure,52.1326,5.2913,1
+London,UK,Amazon,51.5073,-0.1276,1
+London,United Kingdom,Google Cloud,51.5073,-0.1276,1
+London,United Kingdom,IBM Cloud,51.5073,-0.1276,3
+London,United Kingdom,Microsoft Azure,51.5073,-0.1276,1
+London,United Kingdom,Oracle,51.5073,-0.1276,1
+Cardiff,United Kingdom,Microsoft Azure,51.4817,-3.1792,1
+Belgium,Belgium,Google Cloud,50.5577,4.4699,1
+Frankfurt,Germany,Amazon,50.1109,8.6821,1
+Frankfurt,Germany,Google Cloud,50.1109,8.6821,1
+Frankfurt,Germany,IBM Cloud,50.1109,8.6821,3
+Frankfurt,Germany,Microsoft Azure,50.1109,8.6821,2
+Frankfurt,Germany,Oracle,50.1109,8.6821,1
+Paris,France,Amazon,48.8566,2.3518,1
+Paris,France,IBM Cloud,48.8566,2.3518,1
+Paris,France,Microsoft Azure,48.8566,2.3518,1
+Victoria,Australia,Microsoft Azure,48.4284,-123.3656,1
+Zurich,Switzerland,Google Cloud,47.3786,8.54,1
+Zurich,Switzerland,Microsoft Azure,47.3786,8.54,1
+Zurich,Switzerland,Oracle,47.3786,8.54,1
+Quebec City,Canada,Microsoft Azure,46.8257,-71.2349,1
+Geneva,Switzerland,Microsoft Azure,46.206,6.1453,1
+Montreal,United States,Google Cloud,45.5017,-73.5673,1
+Montreal,Canada,IBM Cloud,45.5017,-73.5673,1
+Montreal,Canada,Oracle,45.5017,-73.5673,1
+Milan,Italy,Amazon,45.4642,9.1903,1
+Milan,Italy,IBM Cloud,45.4642,9.1903,1
+Oregon,United States,Amazon,43.8041,-120.5542,1
+Oregon,United States,Google Cloud,43.8041,-120.5542,1
+Toronto,Canada,IBM Cloud,43.6529,-79.3849,1
+Toronto,Canada,Microsoft Azure,43.6529,-79.3849,1
+Toronto,Canada,Oracle,43.6529,-79.3849,1
+Marseille,France,Microsoft Azure,43.2967,5.3764,1
+Wyoming,United States,Microsoft Azure,43.076,-107.2903,1
+Salt Lake City,United States,Google Cloud,40.767,-111.8904,1
+Illinois,United States,Microsoft Azure,40.6331,-89.3985,1
+Ohio,United States,Amazon,40.4173,-82.9071,1
+Beijing,China,Microsoft Azure,39.905,116.3914,2
+Ashburn,United States,Oracle,39.0438,-77.4874,1
+Washington DC,United States,IBM Cloud,38.895,-77.0366,1
+"Washington, D.C.",United States,IBM Cloud,38.895,-77.0366,2
+"Washington, D.C.",United States,Microsoft Azure,38.895,-77.0366,1
+Seoul,South Korea,Amazon,37.5665,126.978,1
+Seoul,South Korea,Google Cloud,37.5665,126.978,1
+Seoul,Korea,IBM Cloud,37.5665,126.978,1
+Seoul,South Korea,Microsoft Azure,37.5665,126.978,1
+Seoul,South Korea,Oracle,37.5665,126.978,1
+North Virginia,United States,Google Cloud,37.4316,-78.6569,1
+Virginia,United States,Microsoft Azure,37.4316,-78.6569,2
+San Jose,United States,IBM Cloud,37.3382,-121.8863,1
+California,United States,Microsoft Azure,36.7783,-119.4179,1
+Las Vegas,United States,Google Cloud,36.1699,-115.1398,1
+North Carolina,United States,Amazon,35.7596,-79.0193,1
+Tokyo,Japan,Amazon,35.68,139.77,1
+Tokyo,Japan,Google Cloud,35.68,139.77,1
+Tokyo,Japan,IBM Cloud,35.68,139.77,3
+Tokyo,Japan,Microsoft Azure,35.68,139.77,1
+Tokyo,Japan,Oracle,35.68,139.77,1
+Busan,South Korea,Microsoft Azure,35.1025,129.0349,1
+Osaka,Japan,Amazon,34.693,135.502,1
+Osaka,Japan,Google Cloud,34.693,135.502,1
+Osaka,Japan,Microsoft Azure,34.693,135.502,1
+Osaka,Japan,Oracle,34.693,135.502,1
+Los Angeles,United States,Google Cloud,34.0544,-118.2439,1
+South Carolina,United States,Google Cloud,33.8361,-81.1637,1
+Phoenix,United States,Oracle,33.4484,-112.074,1
+Dallas,United States,IBM Cloud,32.7767,-96.797,3
+Texas,United States,Microsoft Azure,31.9686,-99.9018,1
+New South Wales,Australia,Microsoft Azure,31.2532,146.9211,1
+Shanghai,China,Microsoft Azure,31.1667,121.4667,2
+IOWA,United States,Google Cloud,30.2369,-93.0138,1
+IOWA,United States,Microsoft Azure,30.2369,-93.0138,1
+Houston,United States,IBM Cloud,29.7604,-95.3698,1
+Bahrain,Bahrain,Amazon,26.0667,50.5577,1
+Dubai,UAE,Microsoft Azure,25.252,55.28,1
+Abu Dhabi,UAE,Microsoft Azure,24.466,54.366,1
+Taiwan,Taiwan,Google Cloud,23.6978,120.9605,1
+Hong Kong,Hong Kong,Amazon,22.3193,114.1694,1
+Hong Kong,Hong Kong,Google Cloud,22.3193,114.1694,1
+Hong Kong,China,IBM Cloud,22.3193,114.1694,1
+Hong Kong,Hong Kong,Microsoft Azure,22.3193,114.1694,1
+Jeddah,Saudi Arabia,Oracle,21.5428,39.1728,1
+Mexico City,Mexico,IBM Cloud,19.4194,-99.1456,1
+Mumbai,India,Amazon,18.9667,72.8333,1
+Mumbai,India,Google Cloud,18.9667,72.8333,1
+Mumbai,India,Microsoft Azure,18.9667,72.8333,1
+Mumbai,India,Oracle,18.9667,72.8333,1
+Pune,India,Microsoft Azure,18.5236,73.8478,1
+Hyderabad,India,Oracle,17.3667,78.4667,1
+Chennai,India,IBM Cloud,13.09,80.27,1
+Chennai,India,Microsoft Azure,13.09,80.27,1
+Singapore,Singapore,Amazon,1.289,103.85,1
+Singapore,Singapore,Google Cloud,1.289,103.85,1
+Singapore,Singapore,IBM Cloud,1.289,103.85,1
+Singapore,Singapore,Microsoft Azure,1.289,103.85,1
+Sao Paulo,Brazil,Amazon,-23.5507,-46.6334,1
+Sao Paulo,Brazil,Google Cloud,-23.5507,-46.6334,1
+São Paulo,Brazil,IBM Cloud,-23.5507,-46.6334,1
+Sao Paulo,Brazil,Microsoft Azure,-23.5507,-46.6334,1
+Sao Paulo,Brazil,Oracle,-23.5507,-46.6334,1
+Johannesburg,South Africa,Microsoft Azure,-26.1633,28.0328,1
+Sydney,Australia,Amazon,-33.868,151.21,1
+Sydney,Australia,Google Cloud,-33.868,151.21,1
+Sydney,Australia,IBM Cloud,-33.868,151.21,3
+Sydney,Australia,Oracle,-33.868,151.21,1
+Cape Town,South Africa,Amazon,-33.9351,18.4289,1
+Cape Town,South Africa,Microsoft Azure,-33.9351,18.4289,1
+Canberra,Australia,Microsoft Azure,-35.2819,149.1289,2
+Melbourne,Australia,IBM Cloud,-37.8142,144.9632,1
+Melbourne,Australia,Oracle,-37.8142,144.9632,1

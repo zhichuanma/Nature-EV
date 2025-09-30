@@ -1,0 +1,36 @@
+{
+  "chart": {
+    "title": "Net electricity imports",
+    "subtitle": "Net electricity imports are calculated as electricity imports minus exports. Countries with positive values are net importers of electricity; negative values are net exporters. Measured in [terawatt-hours](#dod:watt-hours).",
+    "citation": "Ember (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/net-electricity-imports?v=1&csvType=filtered&useColumnShortNames=false",
+    "selection": [
+      "United States",
+      "United Kingdom",
+      "France",
+      "Sweden",
+      "Canada"
+    ]
+  },
+  "columns": {
+    "Net imports - TWh": {
+      "titleShort": "Net electricity imports",
+      "titleLong": "Net electricity imports - Ember",
+      "descriptionShort": "Electricity imports minus exports, measured in [terawatt-hours](#dod:watt-hours).",
+      "descriptionProcessing": "",
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1990-2024",
+      "type": "Numeric",
+      "owidVariableId": 1032524,
+      "shortName": "total_net_imports__twh",
+      "lastUpdated": "2025-05-12",
+      "nextUpdate": "2026-05-12",
+      "citationShort": "Ember (2025) – with major processing by Our World in Data",
+      "citationLong": "Ember (2025) – with major processing by Our World in Data. “Net electricity imports – Ember” [dataset]. Ember, “Yearly Electricity Data Europe”; Ember, “Yearly Electricity Data” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1032524.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-06-26",
+  "activeFilters": {}
+}
