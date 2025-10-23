@@ -1,0 +1,32 @@
+{
+    "offshore_wind": {
+        "lca": 0.0164
+    },
+    "ccgt": {
+        "lca": 0.384
+    },
+    "onshore_wind(<1MW)": {
+        "lca": 0.0132
+    },
+    "onshore_wind(>3MW)": {
+        "lca": 0.0229
+    },
+    "onshore_wind(1-3MW)": {
+        "lca": 0.014
+    },
+    "biomass": {
+        "lca": 0.0531
+    },
+    "hydro": {
+        "lca": 0.00435
+    },
+    "PV": {
+        "lca": 0.0803
+    },
+    "oil": {
+        "lca": 1.41
+    },
+    "nuclear": {
+        "lca": 0.0069
+    }
+}
