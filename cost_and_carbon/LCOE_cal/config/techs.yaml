@@ -1,0 +1,424 @@
+offshore_wind:
+  load_factor: 0.64
+  availability: 0.95
+  fuel_efficiency: 0
+  operating_lifetime: 30
+
+  pre_development_costs_per_kw_medium: 130
+  pre_development_years_medium: 5
+  pre_development_phasing:
+    0: 0.2
+    1: 0.2
+    2: 0.2
+    3: 0.2
+    4: 0.2
+
+  construction_cost_medium_per_kw: 1500
+  construction_years_medium: 2
+  construction_phasing_medium:
+    0: 0.5
+    1: 0.5
+
+  infrastructure_costs: 64300000
+
+  fixed_OM: 43300
+  variable_OM: 1
+  insurance_costs: 3000
+  connection_use_of_charge: 44800
+
+  carbon_price_per_tCO2: 0
+  fuel_carbon_content_kgCO2_per_therm: 0
+  fuel_price_per_therm: 0
+  fuel_calorific_value_mwh_per_therm: 0
+
+  hurdle_rate: 0.063
+
+ccgt:
+  load_factor: 0.93
+  availability: 1.0
+  fuel_efficiency: 0.53
+  operating_lifetime: 25
+
+  pre_development_costs_per_kw_medium: 10
+  pre_development_years_medium: 2
+  pre_development_phasing:
+    0: 0.43
+    1: 0.57
+
+  construction_cost_medium_per_kw: 600
+  construction_years_medium: 3
+  construction_phasing_medium:
+    0: 0.4
+    1: 0.4
+    2: 0.2
+
+  infrastructure_costs: 17300000
+
+  fixed_OM: 14000
+  variable_OM: 2
+  insurance_costs: 2400
+  connection_use_of_charge: 3800
+
+  # fuel_costs_per_mwh: 43
+  # emissions_kg_per_therm: 5.36
+  # carbon_price_per_mwh: 60
+
+  carbon_price_per_tCO2: 83.03
+  fuel_carbon_content_kgCO2_per_therm: 5.36
+  fuel_price_per_therm: 0.67
+  fuel_calorific_value_mwh_per_therm: 0.0293
+
+  hurdle_rate: 0.075
+
+onshore_wind:
+  load_factor: 0.45 # Should be changed based on capacity
+  availability: 0.95
+  fuel_efficiency: 0
+  operating_lifetime: 25
+
+  pre_development_costs_per_kw_medium: 130
+  pre_development_years_medium: 4
+  pre_development_phasing:
+    0: 0.25
+    1: 0.25
+    2: 0.25
+    3: 0.25
+
+  construction_cost_medium_per_kw: 1100
+  construction_years_medium: 2
+  construction_phasing_medium:
+    0: 0.5
+    1: 0.5
+
+  infrastructure_costs: 3800000
+
+  fixed_OM: 25400
+  variable_OM: 6
+  insurance_costs: 1700
+  connection_use_of_charge: 3600
+
+  carbon_price_per_tCO2: 0
+  fuel_carbon_content_kgCO2_per_therm: 0
+  fuel_price_per_therm: 0
+  fuel_calorific_value_mwh_per_therm: 0
+
+  hurdle_rate: 0.052
+
+biomass:
+  load_factor: 0.80
+  availability: 1.0
+  fuel_efficiency: 0.38
+  operating_lifetime: 24
+
+  pre_development_costs_per_kw_medium: 300
+  pre_development_years_medium: 3
+  pre_development_phasing:
+    0: 0.33
+    1: 0.33
+    2: 0.34
+
+  construction_cost_medium_per_kw: 5600
+  construction_years_medium: 2
+  construction_phasing_medium:
+    0: 0.47
+    1: 0.53
+
+  infrastructure_costs: 1000000
+
+  fixed_OM: 275100
+  variable_OM: 10
+  insurance_costs: 54100
+  connection_use_of_charge: 19100
+
+  carbon_price_per_tCO2: 0.0      # 与 CCGT 相同的碳价
+  fuel_carbon_content_kgCO2_per_therm: 11.8   # 生物源CO₂
+  fuel_price_per_therm: 0.80
+  fuel_calorific_value_mwh_per_therm: 0.0293
+
+  hurdle_rate: 0.099
+
+# biomass:
+#   load_factor: 0.84
+#   availability: 1.0
+#   fuel_efficiency: 0
+#   operating_lifetime: 25
+
+#   pre_development_costs_per_kw_medium: 130
+#   pre_development_years_medium: 3
+#   pre_development_phasing:
+#     0: 0.33
+#     1: 0.33
+#     2: 0.34
+
+#   construction_cost_medium_per_kw: 3200
+#   construction_years_medium: 2
+#   construction_phasing_medium:
+#     0: 0.46
+#     1: 0.54
+
+#   infrastructure_costs: 500000
+
+#   fixed_OM: 74900
+#   variable_OM: 7
+#   insurance_costs: 13200
+#   connection_use_of_charge: 14800
+
+#   carbon_price_per_tCO2: 0
+#   fuel_carbon_content_kgCO2_per_therm: 0
+#   fuel_price_per_therm: 0
+#   fuel_calorific_value_mwh_per_therm: 0
+
+#   hurdle_rate: 0.079
+
+
+hydro:
+  load_factor: 0.35
+  availability: 1.0
+  fuel_efficiency: 0
+  operating_lifetime: 41
+
+  pre_development_costs_per_kw_medium: 60
+  pre_development_years_medium: 2
+  pre_development_phasing: 
+    0: 0.48
+    1: 0.52
+
+  construction_cost_medium_per_kw: 3400
+  construction_years_medium: 2
+  construction_phasing_medium:
+    0: 0.5
+    1: 0.5
+
+  infrastructure_costs: 0
+
+  fixed_OM: 51500
+  variable_OM: 4
+  insurance_costs: 0
+  connection_use_of_charge: 0
+
+  carbon_price_per_tCO2: 0
+  fuel_carbon_content_kgCO2_per_therm: 0
+  fuel_price_per_therm: 0
+  fuel_calorific_value_mwh_per_therm: 0
+
+  hurdle_rate: 0.054
+
+# hydro:
+#   load_factor: 0.45
+#   availability: 1.0
+#   fuel_efficiency: 0
+#   operating_lifetime: 41
+
+#   pre_development_costs_per_kw_medium: 60
+#   pre_development_years_medium: 0
+#   pre_development_phasing: {}
+
+#   construction_cost_medium_per_kw: 3700
+#   construction_years_medium: 2
+#   construction_phasing_medium:
+#     0: 0.5
+#     1: 0.5
+
+#   infrastructure_costs: 0
+
+#   fixed_OM: 29300
+#   variable_OM: 7
+#   insurance_costs: 1100
+#   connection_use_of_charge: 8700
+
+#   carbon_price_per_tCO2: 0
+#   fuel_carbon_content_kgCO2_per_therm: 0
+#   fuel_price_per_therm: 0
+#   fuel_calorific_value_mwh_per_therm: 0
+
+#   hurdle_rate: 0.054
+
+PV(<4kW):
+  load_factor: 0.11
+  availability: 1.0
+  fuel_efficiency: 1.0
+  operating_lifetime: 30
+
+  pre_development_costs_per_kw_medium: 0
+  pre_development_years_medium: 0
+  pre_development_phasing: {}
+
+  construction_cost_medium_per_kw: 1400
+  construction_years_medium: 1
+  construction_phasing_medium:
+    0: 1.0
+
+  infrastructure_costs: 0
+
+  fixed_OM: 19100
+  variable_OM: 0
+  insurance_costs: 0
+  connection_use_of_charge: 0
+
+  carbon_price_per_tCO2: 0
+  fuel_carbon_content_kgCO2_per_therm: 0
+  fuel_price_per_therm: 0
+  fuel_calorific_value_mwh_per_therm: 0
+
+  hurdle_rate: 0.051
+
+PV(4-10kW):
+  load_factor: 0.11
+  availability: 1.0
+  fuel_efficiency: 1.0
+  operating_lifetime: 30
+
+  pre_development_costs_per_kw_medium: 0
+  pre_development_years_medium: 0
+  pre_development_phasing: {}
+
+  construction_cost_medium_per_kw: 1200
+  construction_years_medium: 1
+  construction_phasing_medium:
+    0: 1.0
+
+  infrastructure_costs: 0
+
+  fixed_OM: 7700
+  variable_OM: 0
+  insurance_costs: 0
+  connection_use_of_charge: 0
+
+  carbon_price_per_tCO2: 0
+  fuel_carbon_content_kgCO2_per_therm: 0
+  fuel_price_per_therm: 0
+  fuel_calorific_value_mwh_per_therm: 0
+
+  hurdle_rate: 0.051
+
+PV(10-50kW):
+  load_factor: 0.11
+  availability: 1.0
+  fuel_efficiency: 1.0
+  operating_lifetime: 30
+
+  pre_development_costs_per_kw_medium: 0
+  pre_development_years_medium: 0
+  pre_development_phasing: {}
+
+  construction_cost_medium_per_kw: 1000
+  construction_years_medium: 1
+  construction_phasing_medium:
+    0: 1.0
+
+  infrastructure_costs: 0
+
+  fixed_OM: 7700
+  variable_OM: 0
+  insurance_costs: 0
+  connection_use_of_charge: 0
+
+  carbon_price_per_tCO2: 0
+  fuel_carbon_content_kgCO2_per_therm: 0
+  fuel_price_per_therm: 0
+  fuel_calorific_value_mwh_per_therm: 0
+
+  hurdle_rate: 0.056
+
+PV(50kW+):
+  load_factor: 0.11
+  availability: 1.0
+  fuel_efficiency: 1.0
+  operating_lifetime: 35
+
+  pre_development_costs_per_kw_medium: 50
+  pre_development_years_medium: 1
+  pre_development_phasing: 
+    0: 1.0
+
+  construction_cost_medium_per_kw: 400
+  construction_years_medium: 1
+  construction_phasing_medium:
+    0: 1.0
+
+  infrastructure_costs: 1400000
+
+  fixed_OM: 6000
+  variable_OM: 0
+  insurance_costs: 2000
+  connection_use_of_charge: 1300
+
+  carbon_price_per_tCO2: 0
+  fuel_carbon_content_kgCO2_per_therm: 0
+  fuel_price_per_therm: 0
+  fuel_calorific_value_mwh_per_therm: 0
+
+  hurdle_rate: 0.05
+
+oil:
+  load_factor: 0.05
+  availability: 1.0
+  fuel_efficiency: 0.34
+  operating_lifetime: 15
+
+  pre_development_costs_per_kw_medium: 10
+  pre_development_years_medium: 2
+  pre_development_phasing:
+    0: 0.5
+    1: 0.5
+
+  construction_cost_medium_per_kw: 300
+  construction_years_medium: 1
+  construction_phasing_medium:
+    0: 1.0
+
+  infrastructure_costs: 2500000
+
+  fixed_OM: 11400
+  variable_OM: 0
+  insurance_costs: 1100
+  connection_use_of_charge: -32600
+
+  carbon_price_per_tCO2: 83.03
+  fuel_carbon_content_kgCO2_per_therm: 7.78
+  fuel_price_per_therm: 3.98
+  fuel_calorific_value_mwh_per_therm: 0.0293
+
+  hurdle_rate: 0.071
+
+nuclear:
+  load_factor: 0.805
+  availability: 0.95
+  fuel_efficiency: 0.0
+  operating_lifetime: 40
+
+  pre_development_costs_per_kw_medium: 197
+  pre_development_years_medium: 6
+  pre_development_phasing:
+    0: 0.16
+    1: 0.16
+    2: 0.16
+    3: 0.16
+    4: 0.16
+    5: 0.2
+
+  construction_cost_medium_per_kw: 4885
+  construction_years_medium: 8
+  construction_phasing_medium:
+    0: 0.125
+    1: 0.125
+    2: 0.125
+    3: 0.125
+    4: 0.125
+    5: 0.125
+    6: 0.125
+    7: 0.125
+
+  infrastructure_costs: 0
+
+  fixed_OM: 37500
+  variable_OM: 1.8
+  insurance_costs: 18000
+  connection_use_of_charge: 6000
+
+  carbon_price_per_tCO2: 0.0
+  fuel_carbon_content_kgCO2_per_therm: 0.0
+  fuel_price_per_therm: 0.0
+  fuel_calorific_value_mwh_per_therm: 0.0
+
+  hurdle_rate: 0.0861
